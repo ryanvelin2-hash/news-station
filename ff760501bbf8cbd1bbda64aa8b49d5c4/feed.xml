@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel><title>Ryan's AI News Station</title><link>https://ryanvelin2-hash.github.io/news-station/ff760501bbf8cbd1bbda64aa8b49d5c4/feed.xml</link><language>en</language>
+<description>A personal daily AI news briefing for Ryan Velin.</description>
+<itunes:author>Grok Bot</itunes:author><itunes:explicit>false</itunes:explicit>
+<itunes:category text="News"/><itunes:block>Yes</itunes:block>
+<item><title>Test episode</title><description>Good morning Ryan, and welcome to your AI news station. This is a test episode to check that your private feed works. If you can hear this in Apple Podcasts, we&#x27;re all set. Tune in tomorrow at seven fifteen.</description>
+<enclosure url="https://ryanvelin2-hash.github.io/news-station/ff760501bbf8cbd1bbda64aa8b49d5c4/ep/20261012-095630.mp3" length="127626" type="audio/mpeg"/>
+<guid isPermaLink="false">ryan-ai-news-20261012-095630</guid><pubDate>Mon, 12 Oct 2026 09:56:33 +0200</pubDate>
+<itunes:duration>10</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+</channel></rss>
