@@ -4,6 +4,12 @@
 <description>A personal daily AI news briefing for Ryan Velin.</description>
 <itunes:author>Grok Bot</itunes:author><itunes:explicit>false</itunes:explicit>
 <itunes:category text="News"/><itunes:block>Yes</itunes:block>
+<item><title>AI News, Monday October 12</title><description>Good morning Ryan, and happy Monday, October twelfth. Welcome to your AI news station. Grab a coffee, settle in, and let&#x27;s go through what&#x27;s been happening in the world of AI, with an ear on what it means for post-production, for your work at Metronome, and for your own films at EMRGNT.
+
+Story one. Netflix says it has now used AI on about three hundred titles. This comes from the Hollywood Reporter, covering a panel at the Busan International Film Festival on October tenth. Netflix&#x27;s production lead for Asia-Pacific, Sung Q Lee, said the streamer uses AI across previsualization, production des</description>
+<enclosure url="https://ryanvelin2-hash.github.io/news-station/ff760501bbf8cbd1bbda64aa8b49d5c4/ep/20261012-100737.mp3" length="4542423" type="audio/mpeg"/>
+<guid isPermaLink="false">ryan-ai-news-20261012-100737</guid><pubDate>Mon, 12 Oct 2026 10:08:35 +0200</pubDate>
+<itunes:duration>283</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Test episode</title><description>Good morning Ryan, and welcome to your AI news station. This is a fresh test, now with a much better voice. If this sounds good to you in Apple Podcasts, we&#x27;re set, and your first real show arrives tomorrow at seven fifteen.</description>
 <enclosure url="https://ryanvelin2-hash.github.io/news-station/ff760501bbf8cbd1bbda64aa8b49d5c4/ep/20261012-100452.mp3" length="201081" type="audio/mpeg"/>
 <guid isPermaLink="false">ryan-ai-news-20261012-100452</guid><pubDate>Mon, 12 Oct 2026 10:04:55 +0200</pubDate>
