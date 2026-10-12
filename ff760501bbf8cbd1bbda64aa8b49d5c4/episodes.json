@@ -5,14 +5,78 @@
   "desc": "Good morning Ryan, and welcome to your AI news station. This is a fresh test, now with a much better voice. If this sounds good to you in Apple Podcasts, we're set, and your first real show arrives tomorrow at seven fifteen.",
   "len": 201081,
   "dur": 12,
-  "date": "Mon, 12 Oct 2026 10:04:55 +0200"
+  "date": "Mon, 12 Oct 2026 10:04:55 +0200",
+  "notes": {
+   "intro": "A short test of the new ElevenLabs voice (Brian) for Ryan's AI News Station.",
+   "stories": []
+  }
  },
  {
-  "id": "20261012-100737",
+  "id": "20261012-101426",
   "title": "AI News, Monday October 12",
-  "desc": "Good morning Ryan, and happy Monday, October twelfth. Welcome to your AI news station. Grab a coffee, settle in, and let's go through what's been happening in the world of AI, with an ear on what it means for post-production, for your work at Metronome, and for your own films at EMRGNT.\n\nStory one. Netflix says it has now used AI on about three hundred titles. This comes from the Hollywood Reporter, covering a panel at the Busan International Film Festival on October tenth. Netflix's production lead for Asia-Pacific, Sung Q Lee, said the streamer uses AI across previsualization, production des",
-  "len": 4542423,
-  "dur": 283,
-  "date": "Mon, 12 Oct 2026 10:08:35 +0200"
+  "desc": "Good morning Ryan, and a very happy Monday, October twelfth. Welcome back to your AI news station. It's a big one today, so grab a coffee, maybe a second one, and let's settle in. We've got Netflix talking openly about AI in the edit, new video tools that live inside the chat window, a fresh flagship video model, a prize-winning AI trailer heading for the big screen, some sobering news about AI agents on the open web, and a little Final Cut Pro gossip to finish. As always, I'll tell you why each one matters for you, at Metronome, and in your own work at EMRGNT.\n\nStory one. Netflix says it has ",
+  "len": 13919755,
+  "dur": 869,
+  "date": "Mon, 12 Oct 2026 10:17:28 +0200",
+  "notes": {
+   "intro": "Monday October 12: Netflix's AI use, video tools inside the chat window, Vidu Q4, an XPRIZE trailer heading for features, agent safety, and a Final Cut Pro 13 leak.",
+   "stories": [
+    {
+     "title": "Netflix has used AI on about 300 titles",
+     "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
+     "line": "Busan panel with Kang Yun-sung and W\u0113t\u0101 FX (also see Variety: https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/)"
+    },
+    {
+     "title": "Higgsfield Katana runs inside Claude via MCP",
+     "url": "https://tau-home.com/en/post/higgsfield-katana-claude-motion-video-editing-mcp/",
+     "line": "conversational video editing powered by Claude Motion"
+    },
+    {
+     "title": "invideo Agentic Extend",
+     "url": "https://invideo.io/news/introducing-agentic-extend-invideo-editor/",
+     "line": "extend scenes up to 30 seconds with picture, dialogue, music and SFX"
+    },
+    {
+     "title": "Voyager launches an AI harness for creative tools",
+     "url": "https://www.founderland.ai/articles/voyager-launches-ai-harness-for-video-production-tools-mv2wdjer",
+     "line": "drives Premiere, Resolve, Final Cut Pro and more"
+    },
+    {
+     "title": "Vidu Q4 Preview",
+     "url": "https://www.unite.ai/vidu-releases-q4-preview-of-next-generation-flagship-ai-video-model/",
+     "line": "4K 10-bit, up to 15 image references"
+    },
+    {
+     "title": "ElevenLabs Brand Kit",
+     "url": "https://muvoai.com/reports/daily-ai-news-updates-2026-10-09/",
+     "line": "reusable colors, fonts, logos and references in ElevenCreative"
+    },
+    {
+     "title": "Runway Solaris",
+     "url": "https://new.clawcaff.com/runway-solaris-interface-world-model/",
+     "line": "an interface world model built on Gen-4.5"
+    },
+    {
+     "title": "AI trailer wins $2.5M XPRIZE, heads for ~$10M feature",
+     "url": "https://artsandvoices.com/articles/2-5-million-future-vision-xprize-goes-to-ai-generated-trailer-3ca692e0",
+     "line": "backed by Google and Range Media"
+    },
+    {
+     "title": "Anthropic discloses unintended agent actions",
+     "url": "https://threatfrontier.com/articles/anthropic-claude-unintended-actions-real-websites",
+     "line": "and the White House says incident reporting is not optional (https://rainvent.ai/genai-daily-october-11-2026-anthropic-pulls-internet-from-evals-white-house-makes-incident-reporting-mandatory-firmus-scraps-5b-ipo/)"
+    },
+    {
+     "title": "UK AISI regains pre-release model testing",
+     "url": "https://cryptobriefing.com/us-restores-uk-access-ai-model-testing/",
+     "line": "after a 17-day pause"
+    },
+    {
+     "title": "Bonus: Final Cut Pro 13 leaks",
+     "url": "https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features",
+     "line": "Pixelmator round-trip, Natural Motion Blur, keyframe easing"
+    }
+   ]
+  }
  }
 ]
