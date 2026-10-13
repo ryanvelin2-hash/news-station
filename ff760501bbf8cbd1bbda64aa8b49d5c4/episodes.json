@@ -78,5 +78,73 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261013-072650",
+  "title": "AI News, Tuesday October 13",
+  "desc": "Good morning Ryan, and happy Tuesday, October thirteenth. This is Sarah, and you're tuned in to your AI news station. Grab a coffee, because today's show lands right in your world: an AI-made holiday feature built on your exact toolkit, new crew roles from Busan, a possible comeback for Sora, a physics reality check, and a big new model from Meta. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. An AI-made Christmas film that cost one and a half million dollars instead of eighty million. Variety ran this exclusive yesterday. It's called",
+  "len": 11254429,
+  "dur": 703,
+  "date": "Tue, 13 Oct 2026 07:28:34 +0200",
+  "notes": {
+   "intro": "Tuesday October 13: an AI-made Christmas feature on Seedance, Nano Banana and ElevenLabs, new crew roles from Busan, Banderas in an AI epic, a possible Sora comeback, a physics benchmark, previs in code, and Meta's first frontier model.",
+   "stories": [
+    {
+     "title": "Merry the Christmas Witch made for $1.5M instead of $80M",
+     "url": "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/",
+     "line": "hybrid AI feature using ElevenLabs, Seedance and Nano Banana"
+    },
+    {
+     "title": "Kim Sung-soo on folding AI into his craft",
+     "url": "https://variety.com/2026/film/global/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/",
+     "line": "Busan panel on hybrid drama and the new \"AI coordinator\" crew role"
+    },
+    {
+     "title": "Antonio Banderas to star in AI-powered Cort\u00e9s",
+     "url": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
+     "line": "Utopai and Ex Machina Studios, in production in Paris"
+    },
+    {
+     "title": "OpenAI's Sora could get a second act",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openais-video-model-sora-could-get-a-second-act/",
+     "line": "talks with a filmmaker-focused startup from Katzenberg and Bill Peebles"
+    },
+    {
+     "title": "Seedance 2.5 tops an AI video physics benchmark",
+     "url": "https://sloptvnews.com/seedance-2-5-physics-benchmark-ranked/",
+     "line": "57.76 out of 100 across 40 measured physics tasks"
+    },
+    {
+     "title": "Microsoft's Code Video Model plans shots in code like previs",
+     "url": "https://www.bottlerocketcontent.com/code-video-model-ai-video-previs-code/",
+     "line": "Three.js previs guides MiniMax H3"
+    },
+    {
+     "title": "Kandinsky 6.0 Video released open source",
+     "url": "https://aicoder.com/news/news-20261012-kandinsky-6-video-foundation-models-for-synchronized-audio-video-generation",
+     "line": "synced 44 kHz audio and video under MIT license"
+    },
+    {
+     "title": "Vivix W1 real-time interactive video",
+     "url": "https://vivix.ai/vivix-w1",
+     "line": "streaming-native model you can steer while it generates"
+    },
+    {
+     "title": "Meta releases Muse Wonder, its first frontier model",
+     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+     "line": "comparable to Fable 5.1 and GPT-6 Astra in Meta's tests"
+    },
+    {
+     "title": "ElevenLabs launches Architect",
+     "url": "https://www.laplaceatlas.com/stories/elevenlabs-launches-architect-an-ai-assistant-for-fixing-voice-agents-04e3d00f",
+     "line": "assistant that diagnoses and fixes voice agents (and see [Eleven v4](https://elevenlabs.io/blog/eleven-v4))"
+    },
+    {
+     "title": "Bonus: Final Cut Pro release notes",
+     "url": "https://support.apple.com/en-us/102825",
+     "line": "12.4 (Sept 29) is still the latest; FCP 13 not yet announced"
+    }
+   ]
+  }
  }
 ]
