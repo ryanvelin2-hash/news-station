@@ -146,5 +146,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261014-082020",
+  "title": "AI News, Wednesday October 14",
+  "desc": "Good morning Ryan, and happy Wednesday, October fourteenth. This is Brian, and you're tuned in to your AI news station. Coffee up, because today is packed: Netflix's own VFX shop laying out hybrid AI production in public, a Korean director putting forty percent budget savings on the table, Kling four point oh going wider this month, a practical shootout between Kling, Veo and Seedance, Apple's first immersive horror for Vision Pro, Magnific and ElevenLabs both shipping brand kits, Nano Banana two point one on your Higgsfield shelf, and a CineD reality check on macOS twenty-seven for Final Cut ",
+  "len": 11354321,
+  "dur": 709,
+  "date": "Wed, 14 Oct 2026 08:22:47 +0300",
+  "notes": {
+   "intro": "Wednesday October 14: Netflix Eyeline hybrid AI production, Kang's 40% budget claim and Weta's color limits, Kling 4.0's October rollout, a Kling/Veo/Seedance shootout, Apple's Remnants on Vision Pro, Magnific One and ElevenLabs Brand Kits, Nano Banana 2.1 on Higgsfield, and macOS 27 for FCP shops.",
+   "stories": [
+    {
+     "title": "How AI is used at Netflix Eyeline Studios",
+     "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
+     "line": "Mousavi at View Conference on hybrid production, sparse sets, and the last 30\u201340% to broadcast quality"
+    },
+    {
+     "title": "Netflix AI on ~300 titles; Kang cites up to 40% budget savings",
+     "url": "https://variety.com/2026/tv/asia/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+     "line": "Busan panel with Weta's Thurston on assistive AI and color-volume limits ([Deadline](https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/))"
+    },
+    {
+     "title": "Kling 4.0 early access and October rollout",
+     "url": "https://klingai.com/blog/kling40-kling-visual-realism-creative-control-introducing-storytelling",
+     "line": "30s clips, 10 keyframes, Omni Reference; PROMPTR music-video case study ([VOZMI](https://vozmi.app/blog/kling-4-0-viral-ai-music-video))"
+    },
+    {
+     "title": "Kling 4.0 vs Veo 3.1 vs Seedance 2.5",
+     "url": "https://www.nereo.io/blog/kling-4-0-vs-veo-3-1-vs-seedance-2-5",
+     "line": "pick by job: keyframes vs references vs short cinematic shots"
+    },
+    {
+     "title": "Remnants immersive horror on Vision Pro",
+     "url": "https://www.macrumors.com/2026/10/13/apple-unveils-vision-pro-immersive-horror-film/",
+     "line": "Ti West, Oct 16 exclusive; 8K 180\u00b0 Spatial Audio ([9to5Mac](https://9to5mac.com/2026/10/12/apple-unveils-immersive-horror-film-coming-to-vision-pro-this-week/))"
+    },
+    {
+     "title": "Magnific One launches with Brand Kit",
+     "url": "https://venturebeat.com/orchestration/magnific-one-launches-to-give-teams-an-image-generator-that-avoids-the-ai-look-and-automatically-upholds-their-brand-kit",
+     "line": "art-direction layer on GPT Image 2; draft then final to 4K"
+    },
+    {
+     "title": "ElevenLabs Brand Kit in ElevenCreative",
+     "url": "https://elevenlabs.io/blog/introducing-brand-kit",
+     "line": "reusable visual identity tagged into Image & Video, Flows, and agent"
+    },
+    {
+     "title": "Nano Banana 2.1 on Higgsfield",
+     "url": "https://www.higgsfield.company/creator-hub/changelog",
+     "line": "up to 4K, 14 references; plus Katana Claude skill ([Android Authority](https://www.androidauthority.com/google-launches-nano-banana-2-1-3719823/))"
+    },
+    {
+     "title": "macOS 27 Golden Gate for video editors",
+     "url": "https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/",
+     "line": "FCP 12.4 Cinematic mode needs Golden Gate; Adobe ok, Avid not qualified"
+    }
+   ]
+  }
  }
 ]
