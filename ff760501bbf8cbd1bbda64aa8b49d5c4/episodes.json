@@ -262,5 +262,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261016-072105",
+  "title": "AI News, Friday October 16",
+  "desc": "Good morning Ryan, and happy Friday, October sixteenth. This is Brian, and you're tuned in to your AI news station. Pour yourself a coffee, because we're closing out the week with a good mix: a lost reality season at a Banijay label in Sweden, Kling four point oh opening to everyone, ElevenLabs scoring your cuts, HeyGen challenging ElevenLabs on voice, an open-source previs tool, AI drama and AI hosts on air, Apple's next launch date, Claude Code news, and Banijay's archive AI. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's get into it.\n\nStory one. A",
+  "len": 10700215,
+  "dur": 668,
+  "date": "Fri, 16 Oct 2026 07:23:06 +0200",
+  "notes": {
+   "intro": "Friday October 16: a lost Challenge Sverige edit at Banijay's Mastiff, Kling 4.0 fully live with MCP and CLI, ElevenLabs Instant Soundtracks, HeyGen's scene-aware voice, an open-source 3D previs builder for coding agents, AI drama on EBS and an AI Andy Cohen on Peacock, Apple's Oct 28 Mac launch, Claude Code Review GA, and Banijay's AI-indexed archive.",
+   "stories": [
+    {
+     "title": "Entire Swedish reality show season lost weeks before premiere amid disputed AI claims",
+     "url": "https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims",
+     "line": "TV4 pushes The Challenge Sverige to 2027; TV4 and Mastiff (a Banijay label) blame human error and a failed backup, not an AI agent ([Omni/TT](https://omni.se/tv4-dementerar-ai-uppgift/a/d7jPVA), [Aftonbladet on cost](https://www.aftonbladet.se/nojesbladet/a/4O0Lb6/efter-raderade-the-challenge-sasongen-sa-manga-miljoner-kostar-det))"
+    },
+    {
+     "title": "Kling 4.0 goes fully live",
+     "url": "https://toolnavs.com/article/2613-kling-40-goes-fully-live-30-second-single-takes-put-long-shots-at-the-center-of",
+     "line": "30s native takes, 10 keyframes, 15 Omni References; MCP and CLI access, 10-bit HDR and API still coming ([Runtime Wire](https://runtimewire.com/article/kling-ai-kling-4-mcp-cli-availability)); coming soon to Higgsfield ([quicknews](https://quicknews.hu/hir/hamarosan-erkezik-a-kling-4-0-a-higgsfield-platformjara))"
+    },
+    {
+     "title": "ElevenLabs Instant Soundtracks",
+     "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+     "line": "upload a video, get an original score plus timed SFX on separate layers; API can return music and SFX as separate files"
+    },
+    {
+     "title": "HeyGen Voice: scene-aware voice cloning",
+     "url": "https://www.heygen.com/research/heygen-voice-scene-aware-voice-cloning",
+     "line": "adapts delivery and room acoustics to the scene image; #1 on Artificial Analysis controlled-voice leaderboard (Oct 9 snapshot, Elo 1201) ([press release](https://finance.yahoo.com/technology/ai/articles/heygen-launches-heygen-voice-debuting-172000180.html))"
+    },
+    {
+     "title": "Topview 3D Builder open-sourced",
+     "url": "https://dev.to/topviewai/from-one-prompt-to-an-editable-3d-scene-we-open-sourced-a-local-first-agent-workflow-npa",
+     "line": "local, agent-driven 3D scene blocking and reference frames for AI video; works with Claude Code, Codex, Cursor (Apache-2.0)"
+    },
+    {
+     "title": "EBS AI Literature Hall premieres Oct 16",
+     "url": "https://global.specialtimes.co.kr/news/ebs-ai-literature-hall-korean-dramas",
+     "line": "13 single-director generative AI dramas on EBS 1TV; plus Peacock's AI Andy Cohen hosting Your Bravoverse ([SLOP TV News](https://sloptvnews.com/peacock-your-bravoverse-ai-andy-cohen/))"
+    },
+    {
+     "title": "Apple inviting media to Oct 28 launch experience",
+     "url": "https://www.macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience/",
+     "line": "touchscreen OLED MacBook Pros, iPad mini, M6 Macs ([AppleInsider](https://appleinsider.com/articles/26/10/15/touch-screen-macbook-pro-will-be-unveiled-on-october-28)); FCP 13 still unannounced ([FCP 13 leak](https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features))"
+    },
+    {
+     "title": "Claude Code Review is generally available",
+     "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+     "line": "~3x faster reviews, Quick/Standard/Deep per repo; Opus 5.5 fast mode GA ([Chasing Next](https://chasingnext.com/updates/claude-opus-5-5-fast-mode-generally-available)); METR embedded evaluators ([Anthropic](https://www.anthropic.com/news/an-update-on-independent-evaluators))"
+    },
+    {
+     "title": "How Banijay activates its 200,000-hour archive with Moments Lab",
+     "url": "https://www.momentslab.com/blog/from-archive-to-audience-banijay-entertainment",
+     "line": "MXT-3 indexing and Studio clipping; Banijay Brazil clip output up 50%; plus Banijay Benelux x ClipHub creator deal ([Banijay](https://www.banijay.com/blog/2026/10/15/banijay-benelux-partners-with-cliphub-to-accelerate-creator-led-audience-growth/))"
+    }
+   ]
+  }
  }
 ]
