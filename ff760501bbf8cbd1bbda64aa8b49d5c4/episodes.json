@@ -320,5 +320,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261019-072202",
+  "title": "AI News, Monday October 19",
+  "desc": "Good morning Ryan, and happy Monday, October nineteenth. This is Brian, and you're tuned in to your AI news station. Fresh coffee, new week. Over the weekend the stack kept moving: Meta and Apple putting a frontier open-weight model on Mac Studios, with a DaVinci Resolve demo; Krea three taking a swing at Nano Banana on speed and price; Topaz Starlight Fast three for Gen AI upscales; FLUX three Video at two K and four K on Krea; a new visual-reasoning model for video-heavy teams; an open-source world model with picture and stereo sound together; Banijay on drama and bottom-line AI at MIPCOM; a",
+  "len": 9860952,
+  "dur": 616,
+  "date": "Mon, 19 Oct 2026 07:24:09 +0200",
+  "notes": {
+   "intro": "Monday October 19: Meta Muse Spark Open on Mac Studios (with a DaVinci Resolve demo), Krea 3 vs Nano Banana on speed/price, Topaz Starlight Fast 3, FLUX 3 Video at 2K/4K on Krea, Elorian Glimpse for visual reasoning, HelixWorld open-source AV worlds, Banijay at MIPCOM on drama and bottom-line AI, the post-Sora video stack remap, and Apple\u2019s Oct 28 LA launch experience.",
+   "stories": [
+    {
+     "title": "Meta Muse Spark Open on Apple Mac Studios",
+     "url": "https://research.meta.ai/blog/muse-spark-open",
+     "line": "816B MoE open-weight model (42B active, 1M context) runs on two M5 Ultra Mac Studios via MLX; Meta demoed Muse Code driving DaVinci Resolve frame-by-frame ([CNBC](https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html))"
+    },
+    {
+     "title": "Introducing Krea 3",
+     "url": "https://www.krea.ai/blog/introducing-krea-3",
+     "line": "native 2K image edits in under 8s at $0.06; Krea\u2019s platform timing puts Nano Banana Pro ~33s / $0.135; default model as of Oct 16 ([changelog](https://www.krea.ai/docs/changelog))"
+    },
+    {
+     "title": "Topaz Starlight Fast 3",
+     "url": "https://developer.topazlabs.com/video-models/starlight/starlight-fast-3",
+     "line": "up to 4\u00d7 Starlight Precise 2.6, scene splitting, ~7 fps at 1080p; now on Krea Enhancer (Starlight v1 retired there)"
+    },
+    {
+     "title": "FLUX 3 Video",
+     "url": "https://bfl.ai/models/flux-3-video",
+     "line": "up to 20s with optional native audio; Krea added 2K/4K output Oct 16; Magnific CPO Omar Pera quoted on BFL page"
+    },
+    {
+     "title": "Elorian Glimpse",
+     "url": "https://elorian.ai/blog/introducing-glimpse",
+     "line": "visual-reasoning model that re-inspects pixels mid-thought; $0.60/$3 per M tokens; TechCrunch on $55M seed / Andrew Dai ([TechCrunch](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/))"
+    },
+    {
+     "title": "Helix World",
+     "url": "https://noiz.ai/lp/blog/meet-helix-world",
+     "line": "real-time interactive video + spatial stereo from one image (Noiz AI + HKUST); demo at helixworld.org, code on GitHub ([NoizAI/HelixWorld](https://github.com/NoizAI/HelixWorld))"
+    },
+    {
+     "title": "MIPCOM 2026 takeaways: Banijay, YouTube, AI",
+     "url": "https://deadline.com/2026/10/mipcom-2026-takeaways-baywatch-skydance-banijay-youtube-1237157888/",
+     "line": "Banijay+All3Media ~265k-hour library; AI talk shifted to integrating/monetizing existing business"
+    },
+    {
+     "title": "AI video in October 2026: the Sora API is gone",
+     "url": "https://www.versely.studio/blog/state-of-ai-video-oct-2026",
+     "line": "Sora API returns 410 since Sept 25; practical Veo / Seedance / Wan / FLUX / Runway lanes (Kling 4.0 since fully live mid-Oct)"
+    },
+    {
+     "title": "Apple inviting media to October 28 launch experience",
+     "url": "https://www.macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience/",
+     "line": "touchscreen MacBooks, iPad mini, M6 Macs per Gurman; FCP 13 still unannounced"
+    }
+   ]
+  }
  }
 ]
