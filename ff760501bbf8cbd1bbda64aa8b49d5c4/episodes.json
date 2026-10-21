@@ -441,5 +441,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261021-071849",
+  "title": "AI News, Wednesday October 21",
+  "desc": "Good morning Ryan, and happy Wednesday, October twenty-first. This is Brian, and you're tuned in to your AI news station. We're halfway through the week, and the theme this morning is agents that edit. Today: an open-weight model being pitched as an unlimited Seedance; a YouTuber who cut his whole video in Claude Code without opening Final Cut; a new general video agent that hands off to Premiere and Resolve; Runway landing in the Claude Marketplace; Higgsfield's command-line tool; real-time generative rendering on a single graphics card; Nano Banana inside Gemini's new business tools, plus a ",
+  "len": 10772104,
+  "dur": 673,
+  "date": "Wed, 21 Oct 2026 07:21:03 +0200",
+  "notes": {
+   "intro": "Wednesday October 21: FastH3 Omni open weights, Ben Vallack's Claude Code edit suite, Mosaic's Motion video agent, Runway in Claude Marketplace, Higgsfield CLI, Tripo EdenLive, Gemini business tools with Nano Banana 2.1 plus the Veo 3.1 preview shutdown, Nordic voices on AI at MIPCOM, and Anthropic's draft IPO prospectus.",
+   "stories": [
+    {
+     "title": "FastH3-Omni: open-weight \"unlimited Seedance\"",
+     "url": "https://nuvalab.ai/fasth3/",
+     "line": "distilled MiniMax H3 with image/video/audio references, 5-15s with sound, 5.6-11.9\u00d7 lower latency on 8 GB200s ([FastVideo](https://haoailab.com/blogs/fastvideo-omniref-update/))"
+    },
+    {
+     "title": "Ben Vallack had Claude Code build his edit suite",
+     "url": "https://thereelstack.com/lab/ben-vallack-claude-code-edit-suite-voice-notes",
+     "line": "transcript cutting, transcribed B-roll library, phone trim app and timecoded voice-note review, no Final Cut"
+    },
+    {
+     "title": "Mosaic introduces Motion, the General Video Agent",
+     "url": "https://mosaic.so/research/motion-gva",
+     "line": "edits, motion design, color and sync; exports to Premiere, After Effects, Resolve (no FCP); framework cost test"
+    },
+    {
+     "title": "Runway joins Claude Marketplace",
+     "url": "https://runway.com/news/company-news/runway-claude-marketplace",
+     "line": "buy Runway Creative with Anthropic commitment; Claude powers Runway Agent"
+    },
+    {
+     "title": "Higgsfield CLI guide",
+     "url": "https://higgsfield.ai/blog/higgsfield-cli",
+     "line": "open source, browser sign-in, same credits (no Unlimited); Seedance 2.5 5s 1080p 80 credits, 15 in draft"
+    },
+    {
+     "title": "Tripo AI launches EdenLive",
+     "url": "https://www.prnewswire.com/news-releases/tripo-ai-announces-major-milestone-in-its-world-model-with-real-time-generative-rendering-for-interactive-experiences-302914408.html",
+     "line": "real-time 720p generative rendering at 24+ fps on one RTX 5090, restyling and previs"
+    },
+    {
+     "title": "New Gemini tools for small business owners",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+     "line": "saved brand style with Nano Banana 2.1; plus [Veo 3.1 previews retire as early as Oct 22](https://ai.google.dev/gemini-api/docs/deprecations)"
+    },
+    {
+     "title": "Scale, survival and the AI question at MIPCOM",
+     "url": "https://nordiskfilmogtvfond.com/news/stories/scale-survival-and-the-ai-question-nordic-industry-voices-take-stock-at-mipcom",
+     "line": "SVT sees AI-generated factual in the pipeline; Banijay's Lucas Green on Nordic IP; archive-for-training ethics"
+    },
+    {
+     "title": "Anthropic's draft IPO prospectus",
+     "url": "https://www.curatedai.net/briefing/2026-10-20.html",
+     "line": "per WSJ: H1 revenue $16.3B, $80.7B net loss (\u2248$72B non-cash), tentative November IPO"
+    }
+   ]
+  }
  }
 ]
