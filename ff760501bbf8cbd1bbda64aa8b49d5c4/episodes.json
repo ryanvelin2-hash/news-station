@@ -499,5 +499,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261022-072608",
+  "title": "AI News, Thursday October 22",
+  "desc": "Good morning Ryan, and happy Thursday, October twenty-second. This is Sarah, and you're tuned in to your AI news station. Yesterday was one of those days where everybody shipped at once, so we've got a full rundown. We've got OpenAI inside Google Cloud, a new Claude agent plus an API change that could break your own tools, Kling 4.0, an open video model running on a Mac, live voice translation, and three stories from Nordic TV, including one from inside the Banijay family. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. OpenAI's models",
+  "len": 10795091,
+  "dur": 674,
+  "date": "Thu, 22 Oct 2026 07:28:01 +0200",
+  "notes": {
+   "intro": "Thursday October 22: OpenAI's models in Google Cloud, Claude Duet plus Anthropic's breaking API version 2026-10-21, Kling 4.0 on Higgsfield and Runway, FastH3 Omni running locally on an M5 Max, ElevenLabs Realtime Translation, TV4/Mastiff's lost Challenge Sverige edit (backup failure, not AI), TV 2 Norway's AI subtitle slip, EBU and NVIDIA on sovereign AI agents, and WGA East's Cloak deal.",
+   "stories": [
+    {
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud",
+     "line": "GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna in private preview in Model Garden; Codex connects now; GA in coming weeks ([Google Cloud blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers))"
+    },
+    {
+     "title": "Introducing Claude Duet",
+     "url": "https://claude.com/resources/articles/claude-duet",
+     "line": "proactive agent, US Pro/Max waitlist; plus [API version 2026-10-21](https://platform.claude.com/docs/en/api/migration-2026-10-21): temperature/top_p/top_k now return 400, Python SDK 2.0, Bearer auth"
+    },
+    {
+     "title": "Kling 4.0 on Higgsfield",
+     "url": "https://www.higgsfield.company/creator-hub/changelog",
+     "line": "3-30s, 10 keyframes, 15 references, edit finished clips, stereo sound, launch discount; also [on Runway](https://runway.com/product/models/kling-4.0)"
+    },
+    {
+     "title": "FastH3 Omni goes local: DGX Spark, RTX and Apple Silicon",
+     "url": "https://haoailab.com/blogs/fasth3-omni-local/",
+     "line": "5s 480p from one photo: 62s on RTX 5090, 19.5 min on M5 Max via MLX (4.7 min with reference shrink)"
+    },
+    {
+     "title": "ElevenLabs launches Eleven Realtime Translation",
+     "url": "https://elevenlabs.io/blog/realtime-translation",
+     "line": "live two-way voice translation on Eleven v4 Turbo, 90+ languages, enterprise alpha"
+    },
+    {
+     "title": "No, AI didn't delete a Swedish reality TV series",
+     "url": "https://www.tvbeurope.com/artificial-intelligence/no-ai-didnt-delete-a-swedish-reality-tv-series",
+     "line": "TV4 says a failed backup and human error lost Mastiff's edited Challenge Sverige; recut pushes premiere to 2027"
+    },
+    {
+     "title": "Norwegian TV 2 apologises for AI subtitle blunder",
+     "url": "https://ekstrabladet.dk/underholdning/filmogtv/uheldig-fejl-i-svar-paa-vild-med-dans-norsk-tv-2-beklager-pinlig-ai-broeler/11325954",
+     "line": "AI-subtitled Skal vi danse replay on TV 2 Play misspelled judges' and contestants' names"
+    },
+    {
+     "title": "EBU and NVIDIA on sovereign AI agents for public broadcasters",
+     "url": "https://hogby.ai/artikkel/nvidia-ebu-suveren-ki-agenter-kringkasting-2026",
+     "line": "reference architectures with Microsoft, Nebius and Qvest; no timeline or pricing yet"
+    },
+    {
+     "title": "WGA East strikes deal with Cloak",
+     "url": "https://variety.com/2026/biz/news/wgae-strikes-deal-with-cloak-safeguard-scripts-ai-scraping-1236917428/",
+     "line": "free for members, $10 for non-members, makes scripts resistant to AI scraping"
+    }
+   ]
+  }
  }
 ]
