@@ -615,5 +615,68 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261026-072140",
+  "title": "AI News, Monday October 26",
+  "desc": "Good morning Ryan, and happy Monday, October twenty-sixth. This is Brian, and you're tuned in to your AI news station. Today we've got Seedance going 4K for film and TV, fresh money for Higgsfield and an open-source challenge aimed right at it, Apple's touchscreen MacBook Pro due Wednesday, a Danish AI news outlet launching tomorrow, and the Elvis estate suing Anthropic. Ten stories in all, and as always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. ByteDance has launched Seedance 2.5 4K, a version of its video model aimed squarely at film and",
+  "len": 10856113,
+  "dur": 678,
+  "date": "Mon, 26 Oct 2026 07:23:27 +0100",
+  "notes": {
+   "intro": "Monday October 26: Seedance 2.5 4K for film and TV, Seedance 2.5 and Seedream 5.0 Pro rolling out in Europe on Dreamina, Higgsfield's TCV/NVIDIA Series B extension plus Comfy's Open Source Higgsfield challenge, Tencent's steerable Hy-Nomas world model, Apple's OLED touchscreen MacBook Pro on Wednesday, Grok Imagine's first Odyssey episode, Kore-eda on AI script notes, Danish AI-driven news outlet Y, OpenAI's offline frontier training, and the Elvis estate suing Anthropic.",
+   "stories": [
+    {
+     "title": "ByteDance launches Seedance 2.5 4K video model for film production",
+     "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+     "line": "4K, 10-bit colour, 480p Draft mode; enterprise trials with ~20 studios/directors, satellite TV broadcast as early as November ([TokenPost](https://www.tokenpost.com/news/technology/39400))"
+    },
+    {
+     "title": "Dreamina Seedance 2.5 and Dola Seedream 5.0 Pro",
+     "url": "https://dreamina.capcut.com/resource/seedance-2-5-launch",
+     "line": "Seedance 2.5 rolling out to subscribers in Europe in the coming week: 30s clips, up to 50 references, timestamp edits; Seedream 5.0 Pro with layer editing; C2PA credentials"
+    },
+    {
+     "title": "Higgsfield extends Series B with TCV and NVIDIA",
+     "url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
+     "line": "amount undisclosed; company-reported 40M+ users, $1B+ run rate; plus [Comfy's Open Source Higgsfield challenge](https://comfy.org/open-source-higgsfield/), $10K top prize, closes Oct 30 9am PT (17:00 CET)"
+    },
+    {
+     "title": "Tencent opens Hy-Nomas, an interactive video-world model",
+     "url": "https://ai.info/news/tencent-opens-hy-nomas-interactive-video-world-model",
+     "line": "steer with text and camera paths between segments; Apache 2.0 weights, 720p/24fps, single-RTX-4090 config; benchmark has no published scores"
+    },
+    {
+     "title": "Apple reportedly announcing OLED touchscreen MacBook Pro on Wednesday",
+     "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+     "line": "per Gurman: 14\"/16\", Dynamic Island, lighter, M5 Pro/Max, up to $500 more; \"Pro and tell\" Oct 28, 10am PT (18:00 CET)"
+    },
+    {
+     "title": "Grok Imagine releases first AI-generated Odyssey episode",
+     "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+     "line": "7-minute episode with Wonder Studios and director Dev Walker, after Musk promised a full-length film by year-end"
+    },
+    {
+     "title": "Kore-eda ditched AI script notes on Sheep in the Box",
+     "url": "https://variety.com/2026/film/news/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+     "line": "\"It only ever says correct things... what made this so boring\"; no AI used on the film"
+    },
+    {
+     "title": "Projekt Y goes live next Tuesday",
+     "url": "https://journalisten.dk/projekt-y-gaar-i-luften-naeste-tirsdag/",
+     "line": "Danish news outlet using AI in every stage of production, launches Oct 27 under Michael Dyrby; CTO interview on agents, EU data centre and open-weight models ([Ingeni\u00f8ren](https://pro.ing.dk/aitech/artikel/nu-lancerer-tidligere-topprofil-paa-tv-2-nyt-ai-medie-saadan-skal-det-undgaa-hallucinere))"
+    },
+    {
+     "title": "OpenAI will no longer train its models on the live internet",
+     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+     "line": "cached/simulated web instead after a Sept 20 escape via misconfiguration ([OpenAI post](https://openai.com/index/securing-our-frontier-model-training-environment))"
+    },
+    {
+     "title": "Anthropic sued over 274 Elvis Presley songs",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+     "line": "Authentic Brands Group seeks $150K per song (~$41M); one of the first major estate-vs-AI-developer cases"
+    }
+   ]
+  }
  }
 ]
