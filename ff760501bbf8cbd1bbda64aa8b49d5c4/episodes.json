@@ -678,5 +678,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261027-072217",
+  "title": "AI News, Tuesday October 27",
+  "desc": "Good morning Ryan, and happy Tuesday, October twenty-seventh. This is Sarah, and you're tuned in to your AI news station. Today is a launch day right here in Denmark, with Projekt Y going live this afternoon. We've also got Runway's new App Studio, a sobering box office number for China's first AI feature film, Anthropic filing to go public, and Apple's busy launch week. Nine stories in all, and as always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's get into it.\n\nStory one. Projekt Y goes live today. According to DR, Y opens to readers at one o'clock this af",
+  "len": 10559363,
+  "dur": 659,
+  "date": "Tue, 27 Oct 2026 07:24:07 +0100",
+  "notes": {
+   "intro": "Tuesday October 27: Projekt Y goes live at 13:00, Runway's no-code App Studio, ByteDance Jimeng's short-drama studio, China's first AI feature Sanxingdui flopping at the box office, Riverside's video-editing agents, OpenAI's GPT-6.1 Terra, Anthropic's IPO filing, Apple's iPad mini and Pro and Tell week, and new AI studios Inevitable and Lux Meridian.",
+   "stories": [
+    {
+     "title": "I morgen g\u00e5r nyt AI-medie i luften: 'Vi g\u00e5r faktisk mod str\u00f8mmen'",
+     "url": "https://www.dr.dk/nyheder/indland/i-morgen-gaar-nyt-ai-medie-i-luften-vi-gaar-faktisk-mod-stroemmen",
+     "line": "Michael Dyrby's AI-assisted outlet Y launches today at 13:00 on y.dk; text plus audio versions, 40-50 articles/day goal, RUC researcher Aske Kammer sceptical ([B.T.](https://www.bt.dk/samfund/dansk-medie-med-nyheder-skrevet-af-kunstig-intelligens-lanceres-tirsdag))"
+    },
+    {
+     "title": "Introducing Runway App Studio",
+     "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
+     "line": "describe a tool in plain language and get a custom app using your Brand Kits and Workflows; built-ins include Character Swap, 3D Camera Control and Precise Edit; included in all paid plans"
+    },
+    {
+     "title": "ByteDance launches AI studio for short-drama production",
+     "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+     "line": "Jimeng combines script (DreamScript), images (Anycook), storyboards (DreamShot), production and post; shot replacement and restyling dramas for other markets"
+    },
+    {
+     "title": "China's first AI feature flops at the Chinese box office",
+     "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
+     "line": "Bona's Sanxingdui: Future Past made ~RMB1.21M ($181K) through Monday vs RMB10M+ cost; Vidu-powered, grading and 5.1 mix still conventional ([Magica](https://magica.com/news/bona-sanxingdui-future-past-ai-film-opening-box-office))"
+    },
+    {
+     "title": "The first team of AI agents built for video",
+     "url": "https://riverside.com/blog/first-team-of-ai-agents-built-for-video",
+     "line": "Riverside Agents: Producer, Editor, Clipper and Marketer on web and iOS; nothing publishes without your sign-off"
+    },
+    {
+     "title": "Introducing GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+     "line": "fast, cheaper computer-use model; benchmark tasks include time-coded shot logging of an animated film; $1/$5 per million input/output tokens"
+    },
+    {
+     "title": "Anthropic files S-1 for proposed IPO",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "line": "Nasdaq ticker ANT, size and price not set; H1 2026 revenue $16.3B, founders keep 50.1% voting power ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/))"
+    },
+    {
+     "title": "Apple gives iPad mini its biggest update ever",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+     "line": "8.5\" OLED, A20 Pro, IP67, from $699, pre-orders Oct 28, available Nov 6; touchscreen MacBook Pro expected at \"Pro and Tell\" Oct 28, 18:00 CET ([Macworld live blog](https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html))"
+    },
+    {
+     "title": "AI studio Inevitable raises \u20ac15m funding",
+     "url": "https://www.advanced-television.com/2026/10/26/ai-studio-inevitable-raises-e15m-funding/",
+     "line": "French studio aims for \u2264100-min features in four months for $250K; plus Territory Group's [Lux Meridian](https://thegenerated.com/notes/the-team-behind-dune-s-screens-launches-an-ai-20261026) built on Adobe Firefly Foundry, unnamed Hollywood studio deal"
+    }
+   ]
+  }
  }
 ]
