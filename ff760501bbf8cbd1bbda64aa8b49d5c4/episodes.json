@@ -736,5 +736,63 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261028-072549",
+  "title": "AI News, Wednesday October 28",
+  "desc": "Good morning Ryan, and happy Wednesday, October twenty-eighth! It's Brian, and this is your AI News Station. Grab your coffee, because today is Apple's big Pro and Tell day, and Apple got a head start yesterday with news that lands squarely on your timeline. We've also got a new world model from Google DeepMind, two all-in-one AI video studios, open-source tools out of the Higgsfield challenge, harsh reviews for Musk's AI Odyssey, the Academy on human work, and a first-day report card for Denmark's AI news outlet Y. Nine stories in all. Let's go.\n\nStory number one: Final Cut Pro gets its bigge",
+  "len": 11537387,
+  "dur": 721,
+  "date": "Wed, 28 Oct 2026 07:28:16 +0100",
+  "notes": {
+   "intro": "Wednesday October 28: Apple Creator Studio's big Final Cut Pro update, M6 MacBook Pro and iMac ahead of tonight's Pro and Tell, Google DeepMind's Genie 4, Genspark Media Studio, CapCut's EditPilot and ChatGPT plugin, Henge and Higgsfield's open Inside AI project, reviews of Musk's AI Odyssey, the Academy on human-driven work, and a first-day verdict on Denmark's AI outlet Y.",
+   "stories": [
+    {
+     "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+     "line": "free November update: MotionVFX built into Final Cut Pro, Content Hub stock video, Pixelmator round-trip, disconnect clips from the primary storyline, more keyframe easing, 23 new transcription languages; MCP in Keynote, Pages and Numbers"
+    },
+    {
+     "title": "Everything Apple announced this week so far",
+     "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
+     "line": "M6 14\" MacBook Pro from $1,999 and M6 iMac from $1,499, pre-orders today, available Nov 6; OLED touchscreen MacBook Pro expected at Pro and Tell, 18:00 CET ([MacRumors preview](https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/))"
+    },
+    {
+     "title": "Genie 4: A new generation of world simulation",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "line": "real-time steerable worlds with native music, ambience and dialogue; trusted testers now, AI Ultra and Gemini API partners next"
+    },
+    {
+     "title": "Genspark Media Studio",
+     "url": "https://www.genspark.ai/blog/genspark-media-studio",
+     "line": "agent \"director\" plans script, storyboard and budget, then orchestrates Seedance 2.5, Nano Banana, ElevenLabs and more; multi-track timeline and 3D blockout stage"
+    },
+    {
+     "title": "CapCut World Los Angeles announcements",
+     "url": "https://www.capcut.com/newsroom/capcut-world-la",
+     "line": "EditPilot natural-language editing, Generative and Interactive Edit, and a ChatGPT plugin for conversational first cuts in the coming months"
+    },
+    {
+     "title": "Henge open studio, plus Higgsfield open-sources Inside AI",
+     "url": "https://thereelstack.com/lab/henge-open-video-studio-minimax-h3-motion-transfer-character-swap-higgsfield-inside-ai",
+     "line": "MIT ComfyUI/MiniMax H3 app for character swap, head swap and motion transfer with MCP; needs 32 GB VRAM locally; #OpenSourceHiggsfield closes Oct 30"
+    },
+    {
+     "title": "Reviewers slate Musk's AI-made Odyssey film",
+     "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+     "line": "one star from Peter Bradshaw; Wonder Studios made the 7-minute episode in under two weeks with a team of three, 7.3M views"
+    },
+    {
+     "title": "Oscars will 'always' reward human excellence in AI era",
+     "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
+     "line": "Academy president on human-driven workflow, copyright and disclosure; plus [Ava DuVernay defends AI-animated photos in 14th](https://filmstories.co.uk/news/ava-duvernay-defends-ai-use-for-animating-moments-in-her-latest-film/)"
+    },
+    {
+     "title": "Nyt AI-medie uden journalister skuffer forsker",
+     "url": "https://www.dr.dk/nyheder/indland/nyt-ai-medie-uden-journalister-skuffer-forsker",
+     "line": "DMJX's Peder Hammerskov: 22 of 43 day-one articles from Ritzau, Reuters or press releases; audio versions the most innovative part but lack context"
+    }
+   ]
+  }
  }
 ]
