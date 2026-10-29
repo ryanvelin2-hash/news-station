@@ -1,17 +1,5 @@
 [
  {
-  "id": "20261012-100452",
-  "title": "Test episode",
-  "desc": "Good morning Ryan, and welcome to your AI news station. This is a fresh test, now with a much better voice. If this sounds good to you in Apple Podcasts, we're set, and your first real show arrives tomorrow at seven fifteen.",
-  "len": 201081,
-  "dur": 12,
-  "date": "Mon, 12 Oct 2026 10:04:55 +0200",
-  "notes": {
-   "intro": "A short test of the new ElevenLabs voice (Brian) for Ryan's AI News Station.",
-   "stories": []
-  }
- },
- {
   "id": "20261012-101426",
   "title": "AI News, Monday October 12",
   "desc": "Good morning Ryan, and a very happy Monday, October twelfth. Welcome back to your AI news station. It's a big one today, so grab a coffee, maybe a second one, and let's settle in. We've got Netflix talking openly about AI in the edit, new video tools that live inside the chat window, a fresh flagship video model, a prize-winning AI trailer heading for the big screen, some sobering news about AI agents on the open web, and a little Final Cut Pro gossip to finish. As always, I'll tell you why each one matters for you, at Metronome, and in your own work at EMRGNT.\n\nStory one. Netflix says it has ",
@@ -791,6 +779,64 @@
      "title": "Nyt AI-medie uden journalister skuffer forsker",
      "url": "https://www.dr.dk/nyheder/indland/nyt-ai-medie-uden-journalister-skuffer-forsker",
      "line": "DMJX's Peder Hammerskov: 22 of 43 day-one articles from Ritzau, Reuters or press releases; audio versions the most innovative part but lack context"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261029-072430",
+  "title": "AI News, Thursday October 29",
+  "desc": "Good morning Ryan, and happy Thursday, October twenty-ninth! It's Sarah, and this is your AI News Station. Last night Apple finally did the thing it said it would never do, and put a touchscreen on the Mac, with Final Cut Pro touch controls built right in. We've also got a big Higgsfield update that reads like a director's wish list, a new ElevenLabs model that matters for anyone who cares about subtitles, ByteDance going all in on AI short dramas, a new frontier model from Google, a sobering security report from Anthropic, an open-source video model that writes code instead of pixels, a Banij",
+  "len": 11472185,
+  "dur": 716,
+  "date": "Thu, 29 Oct 2026 07:25:27 +0100",
+  "notes": {
+   "intro": "Thursday October 29: Apple's touchscreen MacBook Pro with Final Cut Pro touch, Higgsfield Cinema Studio 4.0, ElevenLabs' Cue aligner, ByteDance's AI short-drama studio, Google's Gemini 4 Carbon, Anthropic's red-team exploit research, SenseTime's open Code2Video, Banijay UK's restructure, and Idris Elba's Google-backed AI filmmaking program.",
+   "stories": [
+    {
+     "title": "Apple unveils MacBook Pro with PROLED XDR Display and Touch",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+     "line": "tandem OLED, 2000 nits SDR/HDR, genlock, Final Cut Pro touch for marking ranges and pinch-zoom; from $2,899, ships Nov 6 ([ProVideo Coalition take](https://www.provideocoalition.com/apple-introduces-new-macbook-pro-with-proled-xdr-display-and-a-touchscreen/))"
+    },
+    {
+     "title": "Higgsfield Cinema Studio 4.0",
+     "url": "https://www.prnewswire.com/news-releases/higgsfield-cinema-studio-4-0-gives-ai-filmmakers-more-control-over-every-scene-302921818.html",
+     "line": "Director's Panel, 30-second multi-shot scenes, 50 references, decade and film-stock looks, Extend and Edit Video"
+    },
+    {
+     "title": "ElevenLabs: Forced alignment with Cue",
+     "url": "https://elevenlabs.io/blog/cue-aligner",
+     "line": "character-level timing behind Scribe, subtitles and dubbing; an hour of audio in under a second; Forced Alignment API"
+    },
+    {
+     "title": "ByteDance launches AI studio for short-drama production",
+     "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+     "line": "Jimeng's script-to-post workflow with shot replacement and style remakes for new markets"
+    },
+    {
+     "title": "Introducing Gemini 4 Carbon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+     "line": "Google's strongest cybersecurity and long-horizon model; limited Fairwind rollout; $2/$10 per million tokens introductory"
+    },
+    {
+     "title": "Anthropic: Discovering and exploiting vulnerabilities with Claude",
+     "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+     "line": "unreleased model chained Chrome and Safari exploits; patch your Macs ([The Hacker News](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html))"
+    },
+    {
+     "title": "SenseTime open-sources Code2Video",
+     "url": "https://news.shorstory.com/en/articles/daily-2026-10-29/",
+     "line": "27B Apache 2.0 model that writes code for each frame; for motion graphics and titles, not photoreal"
+    },
+    {
+     "title": "Banijay UK creates Banijay Scotland and restructures OMG and North One",
+     "url": "https://www.banijay.com/blog/2026/10/27/banijay-uk-announces-the-creation-of-banijay-scotland-and-structural-changes-to-objective-media-group-and-north-one/",
+     "line": "Glasgow hub backed by Banijay Post Production; OMG refocused on scripted"
+    },
+    {
+     "title": "Idris Elba backs African AI filmmaking",
+     "url": "https://www.semafor.com/article/10/28/2026/hollywood-actor-idris-elba-backs-african-ai-filmmaking",
+     "line": "Akuna Group's one-year course with $1M from Google; creators own their films"
     }
    ]
   }
