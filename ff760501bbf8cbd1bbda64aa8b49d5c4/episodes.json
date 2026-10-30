@@ -1,73 +1,5 @@
 [
  {
-  "id": "20261012-101426",
-  "title": "AI News, Monday October 12",
-  "desc": "Good morning Ryan, and a very happy Monday, October twelfth. Welcome back to your AI news station. It's a big one today, so grab a coffee, maybe a second one, and let's settle in. We've got Netflix talking openly about AI in the edit, new video tools that live inside the chat window, a fresh flagship video model, a prize-winning AI trailer heading for the big screen, some sobering news about AI agents on the open web, and a little Final Cut Pro gossip to finish. As always, I'll tell you why each one matters for you, at Metronome, and in your own work at EMRGNT.\n\nStory one. Netflix says it has ",
-  "len": 13919755,
-  "dur": 869,
-  "date": "Mon, 12 Oct 2026 10:17:28 +0200",
-  "notes": {
-   "intro": "Monday October 12: Netflix's AI use, video tools inside the chat window, Vidu Q4, an XPRIZE trailer heading for features, agent safety, and a Final Cut Pro 13 leak.",
-   "stories": [
-    {
-     "title": "Netflix has used AI on about 300 titles",
-     "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
-     "line": "Busan panel with Kang Yun-sung and W\u0113t\u0101 FX (also see Variety: https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/)"
-    },
-    {
-     "title": "Higgsfield Katana runs inside Claude via MCP",
-     "url": "https://tau-home.com/en/post/higgsfield-katana-claude-motion-video-editing-mcp/",
-     "line": "conversational video editing powered by Claude Motion"
-    },
-    {
-     "title": "invideo Agentic Extend",
-     "url": "https://invideo.io/news/introducing-agentic-extend-invideo-editor/",
-     "line": "extend scenes up to 30 seconds with picture, dialogue, music and SFX"
-    },
-    {
-     "title": "Voyager launches an AI harness for creative tools",
-     "url": "https://www.founderland.ai/articles/voyager-launches-ai-harness-for-video-production-tools-mv2wdjer",
-     "line": "drives Premiere, Resolve, Final Cut Pro and more"
-    },
-    {
-     "title": "Vidu Q4 Preview",
-     "url": "https://www.unite.ai/vidu-releases-q4-preview-of-next-generation-flagship-ai-video-model/",
-     "line": "4K 10-bit, up to 15 image references"
-    },
-    {
-     "title": "ElevenLabs Brand Kit",
-     "url": "https://muvoai.com/reports/daily-ai-news-updates-2026-10-09/",
-     "line": "reusable colors, fonts, logos and references in ElevenCreative"
-    },
-    {
-     "title": "Runway Solaris",
-     "url": "https://new.clawcaff.com/runway-solaris-interface-world-model/",
-     "line": "an interface world model built on Gen-4.5"
-    },
-    {
-     "title": "AI trailer wins $2.5M XPRIZE, heads for ~$10M feature",
-     "url": "https://artsandvoices.com/articles/2-5-million-future-vision-xprize-goes-to-ai-generated-trailer-3ca692e0",
-     "line": "backed by Google and Range Media"
-    },
-    {
-     "title": "Anthropic discloses unintended agent actions",
-     "url": "https://threatfrontier.com/articles/anthropic-claude-unintended-actions-real-websites",
-     "line": "and the White House says incident reporting is not optional (https://rainvent.ai/genai-daily-october-11-2026-anthropic-pulls-internet-from-evals-white-house-makes-incident-reporting-mandatory-firmus-scraps-5b-ipo/)"
-    },
-    {
-     "title": "UK AISI regains pre-release model testing",
-     "url": "https://cryptobriefing.com/us-restores-uk-access-ai-model-testing/",
-     "line": "after a 17-day pause"
-    },
-    {
-     "title": "Bonus: Final Cut Pro 13 leaks",
-     "url": "https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features",
-     "line": "Pixelmator round-trip, Natural Motion Blur, keyframe easing"
-    }
-   ]
-  }
- },
- {
   "id": "20261013-072650",
   "title": "AI News, Tuesday October 13",
   "desc": "Good morning Ryan, and happy Tuesday, October thirteenth. This is Sarah, and you're tuned in to your AI news station. Grab a coffee, because today's show lands right in your world: an AI-made holiday feature built on your exact toolkit, new crew roles from Busan, a possible comeback for Sora, a physics reality check, and a big new model from Meta. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. An AI-made Christmas film that cost one and a half million dollars instead of eighty million. Variety ran this exclusive yesterday. It's called",
@@ -837,6 +769,64 @@
      "title": "Idris Elba backs African AI filmmaking",
      "url": "https://www.semafor.com/article/10/28/2026/hollywood-actor-idris-elba-backs-african-ai-filmmaking",
      "line": "Akuna Group's one-year course with $1M from Google; creators own their films"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261030-072521",
+  "title": "AI News, Friday October 30",
+  "desc": "Good morning Ryan, and happy Friday, October thirtieth! It's Brian, and this is your AI News Station. We've got the first real hands-on verdicts on Apple's touchscreen MacBook Pro, an open-weights video model from Pika that hands you separate audio stems, a new sound effects model from ElevenLabs, a fresh way to bend Claude Code to your will, a soap opera archive being recut into micro-dramas with AI, a hybrid live-action and AI feature starting its shoot in Mumbai, a ninety-minute AI feature in Korean cinemas, new AI dubbing protections for voice actors, and a rethink of how OpenAI wants its ",
+  "len": 10747862,
+  "dur": 671,
+  "date": "Fri, 30 Oct 2026 07:26:02 +0100",
+  "notes": {
+   "intro": "Friday October 30: first hands-on verdicts on Apple's touchscreen MacBook Pro, Pika's open-weights H3 Flex with five audio stems, ElevenLabs SFX v3, Claude Code mods, Fremantle's AI micro-drama recut of Neighbours, hybrid live-action/AI feature Beta Builder starting its shoot, Korea's 90-minute AI feature Steelay, SAG-AFTRA's AI dubbing consent deal, and OpenAI's rewritten Model Spec.",
+   "stories": [
+    {
+     "title": "Hands-on with Apple's touchscreen MacBook Pro",
+     "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
+     "line": "taps fall back to clicks, magnified controls, no Pencil, $400 premium; third-party touch apps incl. DaVinci Resolve arrive \"later this year\" while Final Cut Pro gets Apple's own touch controls ([Mac Observer](https://www.macobserver.com/news/macbook-pro-touch-apps-list/), [Ars Technica](https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/))"
+    },
+    {
+     "title": "Pika launches Pika H3 Flex",
+     "url": "https://finance.yahoo.com/technology/ai/articles/pika-launches-pika-h3-flex-184000848.html",
+     "line": "open weights, post-trained on MiniMax H3, six steps, 768p draft to 4K finish, 12 references, up to 5 audio stems (dialogue, score, SFX, Foley, ambience); Pika app from Nov 2"
+    },
+    {
+     "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+     "url": "https://elevenlabs.io/blog/sound-effects-v3",
+     "line": "better multi-sound prompts, music and vocals, fewer artifacts; available now"
+    },
+    {
+     "title": "Claude Code mods",
+     "url": "https://claudenews.com/news/customize-claude-code-with-mods",
+     "line": "TypeScript functions that react to prompts, tool calls, permissions and UI events; not sandboxed, install only from trusted sources"
+    },
+    {
+     "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+     "url": "https://www.bbc.com/news/articles/cj1dw9znd1q1o",
+     "line": "Fremantle and RoseBerry Media use AI to scan 9,300+ episodes for vertical micro-dramas starting with Margot Robbie; original footage only, human editor approves; cast and crew raise consent concerns"
+    },
+    {
+     "title": "Beta Builder, debut hybrid AI feature from Abundantia AiOn and InVideo",
+     "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+     "line": "live-action shoot plus AI-driven production began Oct 29 in Mumbai; first of five films backed by \u20b9100 crore (~$10.5M)"
+    },
+    {
+     "title": "'Steelay' opens new era for AI feature films",
+     "url": "https://www.koreatimes.co.kr/entertainment/films/20261029/steelay-opens-new-era-for-ai-feature-films",
+     "line": "90-minute Korean AI feature, under ~$750K in six months; shots picked from ~13,000 discarded options, human dubbing, mix and DI"
+    },
+    {
+     "title": "SAG-AFTRA ratifies TV animation contracts: AI dub consent",
+     "url": "https://www.voiceoverherald.com/sag-aftra-ratifies-tv-animation-contracts-ai-replica-dubbing-consent/",
+     "line": "~95% yes; specific consent needed for foreign-language replica dubs; plus unions' [amicus brief against blanket fair use](https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/) in the OpenAI case"
+    },
+    {
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "url": "https://openai.com/index/updated-model-spec",
+     "line": "five core values, new guidance on context, agency and side effects; most style guidance retired; the model is now called \"GPT\""
     }
    ]
   }
