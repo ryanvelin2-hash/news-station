@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261014-082020",
-  "title": "AI News, Wednesday October 14",
-  "desc": "Good morning Ryan, and happy Wednesday, October fourteenth. This is Brian, and you're tuned in to your AI news station. Coffee up, because today is packed: Netflix's own VFX shop laying out hybrid AI production in public, a Korean director putting forty percent budget savings on the table, Kling four point oh going wider this month, a practical shootout between Kling, Veo and Seedance, Apple's first immersive horror for Vision Pro, Magnific and ElevenLabs both shipping brand kits, Nano Banana two point one on your Higgsfield shelf, and a CineD reality check on macOS twenty-seven for Final Cut ",
-  "len": 11354321,
-  "dur": 709,
-  "date": "Wed, 14 Oct 2026 08:22:47 +0300",
-  "notes": {
-   "intro": "Wednesday October 14: Netflix Eyeline hybrid AI production, Kang's 40% budget claim and Weta's color limits, Kling 4.0's October rollout, a Kling/Veo/Seedance shootout, Apple's Remnants on Vision Pro, Magnific One and ElevenLabs Brand Kits, Nano Banana 2.1 on Higgsfield, and macOS 27 for FCP shops.",
-   "stories": [
-    {
-     "title": "How AI is used at Netflix Eyeline Studios",
-     "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
-     "line": "Mousavi at View Conference on hybrid production, sparse sets, and the last 30\u201340% to broadcast quality"
-    },
-    {
-     "title": "Netflix AI on ~300 titles; Kang cites up to 40% budget savings",
-     "url": "https://variety.com/2026/tv/asia/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
-     "line": "Busan panel with Weta's Thurston on assistive AI and color-volume limits ([Deadline](https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/))"
-    },
-    {
-     "title": "Kling 4.0 early access and October rollout",
-     "url": "https://klingai.com/blog/kling40-kling-visual-realism-creative-control-introducing-storytelling",
-     "line": "30s clips, 10 keyframes, Omni Reference; PROMPTR music-video case study ([VOZMI](https://vozmi.app/blog/kling-4-0-viral-ai-music-video))"
-    },
-    {
-     "title": "Kling 4.0 vs Veo 3.1 vs Seedance 2.5",
-     "url": "https://www.nereo.io/blog/kling-4-0-vs-veo-3-1-vs-seedance-2-5",
-     "line": "pick by job: keyframes vs references vs short cinematic shots"
-    },
-    {
-     "title": "Remnants immersive horror on Vision Pro",
-     "url": "https://www.macrumors.com/2026/10/13/apple-unveils-vision-pro-immersive-horror-film/",
-     "line": "Ti West, Oct 16 exclusive; 8K 180\u00b0 Spatial Audio ([9to5Mac](https://9to5mac.com/2026/10/12/apple-unveils-immersive-horror-film-coming-to-vision-pro-this-week/))"
-    },
-    {
-     "title": "Magnific One launches with Brand Kit",
-     "url": "https://venturebeat.com/orchestration/magnific-one-launches-to-give-teams-an-image-generator-that-avoids-the-ai-look-and-automatically-upholds-their-brand-kit",
-     "line": "art-direction layer on GPT Image 2; draft then final to 4K"
-    },
-    {
-     "title": "ElevenLabs Brand Kit in ElevenCreative",
-     "url": "https://elevenlabs.io/blog/introducing-brand-kit",
-     "line": "reusable visual identity tagged into Image & Video, Flows, and agent"
-    },
-    {
-     "title": "Nano Banana 2.1 on Higgsfield",
-     "url": "https://www.higgsfield.company/creator-hub/changelog",
-     "line": "up to 4K, 14 references; plus Katana Claude skill ([Android Authority](https://www.androidauthority.com/google-launches-nano-banana-2-1-3719823/))"
-    },
-    {
-     "title": "macOS 27 Golden Gate for video editors",
-     "url": "https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/",
-     "line": "FCP 12.4 Cinematic mode needs Golden Gate; Adobe ok, Avid not qualified"
-    }
-   ]
-  }
- },
- {
   "id": "20261015-082852",
   "title": "AI News, Thursday October 15",
   "desc": "Good morning Ryan, and happy Thursday, October fifteenth. This is Sarah, and you're tuned in to your AI news station. Grab your coffee, because we've got a lively one: Gemini four Argon open to everyone, Grok Imagine learning to hold a face and a voice, Higgsfield opening its motion-transfer engine, Asian directors showing real hybrid pipelines on Kling, an all-AI Houdini docuseries, Nicolas Cage refusing a digital-double waiver, a copyright stress test that names your tools, Brussels' first AI Act enforcement move, and a Danish desk with two Copenhagen events built for people like you. As alw",
@@ -822,6 +764,69 @@
      "title": "FT: OpenAI cuts funding target by $10B",
      "url": "https://aisidaily.com/daily/ai-daily-2026-10-31/",
      "line": "to about $20B at a $1.25T valuation target (media report); plus Google's space TPU sends back a haiku"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261103-072729",
+  "title": "AI News, Tuesday November 3",
+  "desc": "Good morning Ryan, and happy Tuesday, November third! It's Sarah, and this is your AI News Station. Today's show leans hard into the stuff you actually do for a living. A major Chinese streamer has opened a studio that shoots live actors and finishes the world in AI. Kling's API is finally open, and its maker just raised almost three billion dollars. The leaderboard everyone quotes for image-to-video has been rebuilt, with a licensing catch for Europe. Runway now plugs straight into Claude Code, Higgsfield crowned its million-dollar film festival, and an AI-voiced song is at number two in Kore",
+  "len": 10877848,
+  "dur": 679,
+  "date": "Tue, 03 Nov 2026 07:27:56 +0100",
+  "notes": {
+   "intro": "Tuesday November 3: iQIYI's hybrid AI film studio, Kling's raise and live API, a rebuilt video leaderboard, Runway in Claude Code, Higgsfield's festival, an AI hit in Korea, DR on AI and Danish film, Claude message threads, Anthropic's S-1 numbers and the GDPx benchmark.",
+   "stories": [
+    {
+     "title": "iQIYI launches China's first AI Film Studio in Shanghai",
+     "url": "https://www.prnewswire.com/apac/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925887.html",
+     "line": "Live actors on set, footage auto-synced to NadouPro with ~30 models (Seedance 2.5, Kling 4.0); \"Cop in Trouble\" filming since Oct 28"
+    },
+    {
+     "title": "Kling raises ~$2.98B; Kling 4.0 API now live",
+     "url": "https://neurocartel.com/en/blog/ai-video-news-november-2",
+     "line": "Second round in six months; API sold in prepaid 180-day packages from $500 ([RCTV pricing breakdown](https://rctv.com/posts/ai-video-weekly-roundup-2026-11-02/))"
+    },
+    {
+     "title": "Artificial Analysis rebuilds its image-to-video boards",
+     "url": "https://rctv.com/posts/ai-video-weekly-roundup-2026-11-02/",
+     "line": "Seedance 2.5 and Utopai X tied with audio; the MiniMax H3 Community License excludes the EU, UK, South Korea and US"
+    },
+    {
+     "title": "Runway Dev plugins for Claude Code, Codex and Cursor",
+     "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
+     "line": "One install connects your coding agent to Runway's API via MCP; `/plugin install runway-api@claude-plugins-official`"
+    },
+    {
+     "title": "Higgsfield changelog: Film Festival winners, Intone, Mangaka",
+     "url": "https://www.higgsfield.company/creator-hub/changelog",
+     "line": "$1M festival judged by Catmull, Papamichael, Anderson and Proyas; lip-synced talking characters; comics from a script"
+    },
+    {
+     "title": "AI-made song hits No. 2 on Melon",
+     "url": "https://neurocartel.com/en/blog/ai-video-news-november-2",
+     "line": "Meomureu's AI melody and vocals with human lyrics and production; Korea's copyright society drops a proposal on registering the human part"
+    },
+    {
+     "title": "DR: Det danske filmmirakel, episode 6 \"Efter miraklet\"",
+     "url": "https://www.dr.dk/drtv/episode/det-danske-filmmirakel_-efter-miraklet_627902",
+     "line": "29 minutes on Hollywood, the new generation, Dogme 25 and whether to fear or welcome AI"
+    },
+    {
+     "title": "Anthropic: message threads for long-running agents",
+     "url": "https://claude.com/resources/articles/message-threads",
+     "line": "Send only new messages; ~35% faster time to first token at 500k\u20131M tokens, on by default for most Claude Code users"
+    },
+    {
+     "title": "Anthropic's amended S-1, OpenAI Grid Protectors and TPU report",
+     "url": "https://sflood.com/en/daily/ai-2026-11-03",
+     "line": "$17B Q3 revenue, ~$895B compute commitments, $3.5B Japan offering; OpenAI's 1,000 MW flexible demand in Georgia ([DailyCited roundup](https://dailycited.com/d/2026-11-03/))"
+    },
+    {
+     "title": "SemiAnalysis GDPx: Opus 5.5 leads at just 12%",
+     "url": "https://www.gadgets360.com/ai/news/google-gemini-4-carbon-frontier-ai-model-agentic-capabilities-anthropic-claude-opus-5-5-semianalysis-benchmark-results-12274852",
+     "line": "Gemini 4 Carbon second at 10.9% and a third of the cost per task; GPT-6 Astra third at 9.6%"
     }
    ]
   }
