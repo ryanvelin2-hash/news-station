@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261015-082852",
-  "title": "AI News, Thursday October 15",
-  "desc": "Good morning Ryan, and happy Thursday, October fifteenth. This is Sarah, and you're tuned in to your AI news station. Grab your coffee, because we've got a lively one: Gemini four Argon open to everyone, Grok Imagine learning to hold a face and a voice, Higgsfield opening its motion-transfer engine, Asian directors showing real hybrid pipelines on Kling, an all-AI Houdini docuseries, Nicolas Cage refusing a digital-double waiver, a copyright stress test that names your tools, Brussels' first AI Act enforcement move, and a Danish desk with two Copenhagen events built for people like you. As alw",
-  "len": 11403639,
-  "dur": 712,
-  "date": "Thu, 15 Oct 2026 08:30:52 +0300",
-  "notes": {
-   "intro": "Thursday October 15: Gemini 4 Argon goes global, Grok Imagine Video 1.5 adds face and voice references, Higgsfield's Genjutsu motion-transfer API, Kling hybrid pipelines from Busan, Fox Nation's all-AI Houdini doc, Nicolas Cage and digital-double waivers, a copyright stress test naming Nano Banana and Seedance, the EU's first AI Act probes, and a Danish desk with Copenhagen AI events plus Banijay at MIPCOM.",
-   "stories": [
-    {
-     "title": "Gemini 4 Argon is now available for everyone",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-     "line": "global rollout Oct 13, $2/$10 intro pricing, Blender MCP + Nano Banana demos; Antigravity in the Gemini macOS app ([Gemini app post](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/))"
-    },
-    {
-     "title": "Imagine Video 1.5 with References",
-     "url": "https://x.ai/news/grok-imagine-video-1-5-references",
-     "line": "image and voice references, text-to-video, native 1080p; API reference mode up to 14 images, 15s, 720p ([xAI docs](https://docs.x.ai/developers/model-capabilities/video/reference-to-video)); unannounced music panel ([ArtRealmAI](https://artrealmai.com/article/grok-imagine-music-in-app-video-soundtracks))"
-    },
-    {
-     "title": "Higgsfield Genjutsu API + ComfyUI node",
-     "url": "https://artrealmai.com/article/higgsfield-genjutsu-motion-transfer-api-comfyui-node",
-     "line": "motion transfer from a 4\u201330s clip with up to 8 references, 50% off through Oct 31; plus 10+ minute videos with GPT-6 Astra ([OpenAI case study](https://openai.com/index/higgsfield-longer-videos-voice/))"
-    },
-    {
-     "title": "How Asian directors wrap Kling AI into their workflows",
-     "url": "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
-     "line": "Rendering Love (MBC C&I/Barunson), Natasha, Born of the Tides; live action for performance, Kling for costly scenes"
-    },
-    {
-     "title": "Fox Nation's Houdini docuseries uses all-AI imagery",
-     "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-nation-houdini-docuseries-ai-imagery-1236725532/",
-     "line": "Red Rock Films, AI-assisted mo-cap on real actors, ~400 licensed photos, premiered Oct 14"
-    },
-    {
-     "title": "Critics vindicate 'Artificial'; studios vs. talent AI wars",
-     "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
-     "line": "Nicolas Cage refused a digital-double/likeness waiver on Spider-Noir; Amazon AI training claims"
-    },
-    {
-     "title": "Midjourney worst offender for flouting Hollywood IP",
-     "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
-     "line": "VN.ai tested 15 models; every model, incl. Nano Banana and Seedance 2.5, produced protected characters"
-    },
-    {
-     "title": "EU's AI rules face first enforcement test",
-     "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
-     "line": "AI Office information requests to OpenAI and Anthropic over agents that escaped testing"
-    },
-    {
-     "title": "Danish desk: AI for editors at Filmv\u00e6rksted K\u00f8benhavn",
-     "url": "https://www.filmvaerksted.dk/events/ai-med-peter-stenbaek---for-klippere",
-     "line": "free 3-session course from Oct 25 with Peter Stenb\u00e6k; ReFrame seminar Oct 27 ([Danske Scenografer](https://www.scenograf.dk/2026/10/12/gratis-seminar-den-27-oktober-om-nye-ai-workflows-i-film-og-tv-produktion/)); Banijay at MIPCOM ([Deadline](https://deadline.com/2026/10/banijay-jeff-zucker-marco-bassetti-eye-us-growth-1237154706/), [TheWrap, July](https://www.thewrap.com/industry-news/deals-ma/jeff-zucker-marco-bassetti-banijay-all3media-merger-closed-interview/))"
-    }
-   ]
-  }
- },
- {
   "id": "20261016-072105",
   "title": "AI News, Friday October 16",
   "desc": "Good morning Ryan, and happy Friday, October sixteenth. This is Brian, and you're tuned in to your AI news station. Pour yourself a coffee, because we're closing out the week with a good mix: a lost reality season at a Banijay label in Sweden, Kling four point oh opening to everyone, ElevenLabs scoring your cuts, HeyGen challenging ElevenLabs on voice, an open-source previs tool, AI drama and AI hosts on air, Apple's next launch date, Claude Code news, and Banijay's archive AI. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's get into it.\n\nStory one. A",
@@ -827,6 +769,69 @@
      "title": "SemiAnalysis GDPx: Opus 5.5 leads at just 12%",
      "url": "https://www.gadgets360.com/ai/news/google-gemini-4-carbon-frontier-ai-model-agentic-capabilities-anthropic-claude-opus-5-5-semianalysis-benchmark-results-12274852",
      "line": "Gemini 4 Carbon second at 10.9% and a third of the cost per task; GPT-6 Astra third at 9.6%"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261104-071747",
+  "title": "AI News, Wednesday November 4",
+  "desc": "Good morning Ryan, and happy Wednesday, November the fourth. It's Brian here, your host on the AI News Station,. We've got ten stories for you today, and there's a real theme running through them: the big studios are now openly testing generative AI inside their workflows, and the tools are moving out of the browser tab and into the pipeline. Let's get into it.\n\nStory number one. Disney, the company that has spent the last year suing AI firms, is now testing AI-made lyric videos. The Los Angeles Times reports that Disney has a commercial deal with OpenArt, a Bay Area startup, starting with \"Go",
+  "len": 10303153,
+  "dur": 643,
+  "date": "Wed, 04 Nov 2026 07:18:26 +0100",
+  "notes": {
+   "intro": "Wednesday November 4: Disney tests AI lyric videos with OpenArt, Promise's gray box hybrid demo at Disney, Weta FX's AI hub in Taiwan, Banijay hiring an AI Creative Technologist, Glue Production on DR P1, Synthesia in ChatGPT, ElevenLabs SFX v3 in the API, Pika H3 Flex near real time, Siri AI opens to developers, and the labs round-up.",
+   "stories": [
+    {
+     "title": "Disney tests AI lyric videos with OpenArt",
+     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
+     "line": "Starting with \"Go the Distance\"; concepts \"in hours rather than weeks\"; the whole Accelerator cohort is AI companies"
+    },
+    {
+     "title": "Promise shows artist-led hybrid production at Disney Demo Day",
+     "url": "https://www.promise.ai/post/promise-showcases-artist-led-ai-filmmaking-at-disney-demo-day",
+     "line": "One actor performance in a gray box turned into different cinematic worlds"
+    },
+    {
+     "title": "Weta FX and TAICCA plan an AI screen production hub in Taiwan",
+     "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+     "line": "Investment, R&D and talent training; formal launch Nov 6 at TCCF in Taipei"
+    },
+    {
+     "title": "Banijay Group is hiring an AI Creative Technologist",
+     "url": "https://www.hollylist.com/gb/job/ai-creative-technologist-v3hQsbmSJkXt8pkgC",
+     "line": "London, hybrid; map AI experiments across labels, prototype tools and scale pilots group-wide"
+    },
+    {
+     "title": "DR P1 K-Live: \"Ja, AI kan lave gode film\"",
+     "url": "https://www.dr.dk/lyd/p1/k-live/k-live-2026/ja-ai-kan-lave-gode-film-11032601452",
+     "line": "Esther Sofie Hede of AI production company Glue Production; segment starts at 01:59"
+    },
+    {
+     "title": "Synthesia launches in ChatGPT",
+     "url": "https://www.synthesia.io/post/synthesia-launches-in-chatgpt",
+     "line": "Build and revise avatar videos from docs, decks and chats; \"make it in Studio\" for exact scripts"
+    },
+    {
+     "title": "ElevenLabs SFX v3 now in the API",
+     "url": "https://neurocartel.com/en/blog/ai-video-news-november-3-2026",
+     "line": "`eleven_text_to_sound_v3`, ordered events and exact durations; looping only on v2"
+    },
+    {
+     "title": "Pika H3 Flex runs 7x faster in FastVideo",
+     "url": "https://haoailab.com/blogs/pika-h3-flex/",
+     "line": "5-second 480p clip in 5.8 s on one GB200 in 4-bit; open 2K regeneration"
+    },
+    {
+     "title": "Apple opens Siri AI to developers, warns about agents",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/",
+     "line": "App Intents in the iOS 27.3 betas; annual filing flags agents exceeding permissions"
+    },
+    {
+     "title": "Anthropic's S-1 warning, FlashProve, OpenAI's Pando and Cathedral deal",
+     "url": "https://e-acc.ai/daily/2026-11-04",
+     "line": "~$17B Q3 revenue and an RSP threshold warning; Pando cuts push latency ~80% ([The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/))"
     }
    ]
   }
