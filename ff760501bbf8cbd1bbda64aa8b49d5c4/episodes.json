@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261019-072202",
-  "title": "AI News, Monday October 19",
-  "desc": "Good morning Ryan, and happy Monday, October nineteenth. This is Brian, and you're tuned in to your AI news station. Fresh coffee, new week. Over the weekend the stack kept moving: Meta and Apple putting a frontier open-weight model on Mac Studios, with a DaVinci Resolve demo; Krea three taking a swing at Nano Banana on speed and price; Topaz Starlight Fast three for Gen AI upscales; FLUX three Video at two K and four K on Krea; a new visual-reasoning model for video-heavy teams; an open-source world model with picture and stereo sound together; Banijay on drama and bottom-line AI at MIPCOM; a",
-  "len": 9860952,
-  "dur": 616,
-  "date": "Mon, 19 Oct 2026 07:24:09 +0200",
-  "notes": {
-   "intro": "Monday October 19: Meta Muse Spark Open on Mac Studios (with a DaVinci Resolve demo), Krea 3 vs Nano Banana on speed/price, Topaz Starlight Fast 3, FLUX 3 Video at 2K/4K on Krea, Elorian Glimpse for visual reasoning, HelixWorld open-source AV worlds, Banijay at MIPCOM on drama and bottom-line AI, the post-Sora video stack remap, and Apple\u2019s Oct 28 LA launch experience.",
-   "stories": [
-    {
-     "title": "Meta Muse Spark Open on Apple Mac Studios",
-     "url": "https://research.meta.ai/blog/muse-spark-open",
-     "line": "816B MoE open-weight model (42B active, 1M context) runs on two M5 Ultra Mac Studios via MLX; Meta demoed Muse Code driving DaVinci Resolve frame-by-frame ([CNBC](https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html))"
-    },
-    {
-     "title": "Introducing Krea 3",
-     "url": "https://www.krea.ai/blog/introducing-krea-3",
-     "line": "native 2K image edits in under 8s at $0.06; Krea\u2019s platform timing puts Nano Banana Pro ~33s / $0.135; default model as of Oct 16 ([changelog](https://www.krea.ai/docs/changelog))"
-    },
-    {
-     "title": "Topaz Starlight Fast 3",
-     "url": "https://developer.topazlabs.com/video-models/starlight/starlight-fast-3",
-     "line": "up to 4\u00d7 Starlight Precise 2.6, scene splitting, ~7 fps at 1080p; now on Krea Enhancer (Starlight v1 retired there)"
-    },
-    {
-     "title": "FLUX 3 Video",
-     "url": "https://bfl.ai/models/flux-3-video",
-     "line": "up to 20s with optional native audio; Krea added 2K/4K output Oct 16; Magnific CPO Omar Pera quoted on BFL page"
-    },
-    {
-     "title": "Elorian Glimpse",
-     "url": "https://elorian.ai/blog/introducing-glimpse",
-     "line": "visual-reasoning model that re-inspects pixels mid-thought; $0.60/$3 per M tokens; TechCrunch on $55M seed / Andrew Dai ([TechCrunch](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/))"
-    },
-    {
-     "title": "Helix World",
-     "url": "https://noiz.ai/lp/blog/meet-helix-world",
-     "line": "real-time interactive video + spatial stereo from one image (Noiz AI + HKUST); demo at helixworld.org, code on GitHub ([NoizAI/HelixWorld](https://github.com/NoizAI/HelixWorld))"
-    },
-    {
-     "title": "MIPCOM 2026 takeaways: Banijay, YouTube, AI",
-     "url": "https://deadline.com/2026/10/mipcom-2026-takeaways-baywatch-skydance-banijay-youtube-1237157888/",
-     "line": "Banijay+All3Media ~265k-hour library; AI talk shifted to integrating/monetizing existing business"
-    },
-    {
-     "title": "AI video in October 2026: the Sora API is gone",
-     "url": "https://www.versely.studio/blog/state-of-ai-video-oct-2026",
-     "line": "Sora API returns 410 since Sept 25; practical Veo / Seedance / Wan / FLUX / Runway lanes (Kling 4.0 since fully live mid-Oct)"
-    },
-    {
-     "title": "Apple inviting media to October 28 launch experience",
-     "url": "https://www.macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience/",
-     "line": "touchscreen MacBooks, iPad mini, M6 Macs per Gurman; FCP 13 still unannounced"
-    }
-   ]
-  }
- },
- {
   "id": "20261020-072301",
   "title": "AI News, Tuesday October 20",
   "desc": "Good morning Ryan, and happy Tuesday, October twentieth. This is Sarah, and you're tuned in to your AI news station. Grab your coffee, because the video lane got busy overnight. Today: FLUX three Max claiming twenty-two times the speed of Seedance; Kling four point oh; ten-minute films from one prompt; a Veo deadline this Thursday; Higgsfield's new agent; Runway's Project Continuum; one-second 3D worlds; Banijay's archive; a Finnish true-crime series built on your tool stack; and the OpenAI versus Anthropic money race. As always, I'll tell you why each one matters for you, at Metronome and at ",
@@ -837,6 +779,64 @@
      "title": "OpenAI agents find 948 Linux kernel exploits",
      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
      "line": "~$1.21M in credits; Kimi K3.1 Pro, Tencent Hy4, Claude helps solve a vault particle structure"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261106-072626",
+  "title": "AI News, Friday November 6",
+  "desc": "Good morning Ryan, and happy Friday, November the sixth. It's Brian here, your host on the AI News Station. We've got nine stories for you this morning, and the thread running through them is that the tools are moving into the places where you already work. Final Cut Pro gets a big update, Google makes video generation cheaper and longer, Higgsfield tackles shot consistency, and a Japanese broadcaster bets its whole drama slate on generative AI. Grab your coffee, it's Friday, and let's get into it.\n\nStory number one, and it's one for your home turf. Apple has started rolling out the big Apple ",
+  "len": 10692274,
+  "dur": 668,
+  "date": "Fri, 06 Nov 2026 07:27:08 +0100",
+  "notes": {
+   "intro": "Friday November 6: Final Cut Pro gets MotionVFX and AI image generation, Google's Gemini Omni 1.2 Flash makes 15-second video cheaper, Higgsfield Elements for consistent shots, Fuji TV's all-AI drama plan, Korea's fully generated features, GPT-6 Cyber, METR on accelerating AI research, Runway and ElevenLabs in coding agents, and always-on agents.",
+   "stories": [
+    {
+     "title": "Apple Creator Studio update: Final Cut Pro gets MotionVFX, Pixelmator Pro round-trip and AI image generation",
+     "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+     "line": "Free for existing subscribers; details in [Apple's release](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) and [RedShark News](https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update)"
+    },
+    {
+     "title": "Gemini Omni 1.2 Flash: 15-second video and 30% lower pricing",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "line": "$0.07 per second at 720p; also in [Google Vids](https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/)"
+    },
+    {
+     "title": "Higgsfield adds Elements to Cinema Studio 4.0",
+     "url": "https://founderheist.com/briefs/higgsfield-adds-elements-to-cinema-studio-4-0-for-ai-shot",
+     "line": "Reusable characters, locations and props with up to 50 references; see also the [Higgsfield changelog](https://www.higgsfield.company/creator-hub/changelog)"
+    },
+    {
+     "title": "Fuji TV to use generative AI in all live-action dramas from October 2027",
+     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fuji-tv-goes-all-in-with-ai-for-drama-production",
+     "line": "Nikkei Asia; article is paywalled"
+    },
+    {
+     "title": "AI movies make the leap to the big screen in Korea",
+     "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
+     "line": "Raphael opens Nov. 25 after 14 months of editing"
+    },
+    {
+     "title": "OpenAI introduces GPT-6 Cyber",
+     "url": "https://openai.com/index/introducing-gpt-6-cyber",
+     "line": "948 Linux privilege escalation exploits and 81 new Firefox vulnerabilities, rated Critical for cybersecurity"
+    },
+    {
+     "title": "The Neuron: Anthropic's AI development is accelerating, per METR",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+     "line": "Roughly twice the previous pace, with much of the evidence redacted"
+    },
+    {
+     "title": "Runway Dev plugins for Claude Code, Codex and Cursor",
+     "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
+     "line": "Plus [ElevenLabs SFX v3 and Eleven Realtime](https://releasebot.io/updates/eleven-labs)"
+    },
+    {
+     "title": "Quick hits: Perplexity Teammates, Cursor web-app deploys, Claude Personal Finance",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+     "line": "Always-on agents arrive across the board"
     }
    ]
   }
