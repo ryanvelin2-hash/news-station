@@ -1,68 +1,5 @@
 [
  {
-  "id": "20261020-072301",
-  "title": "AI News, Tuesday October 20",
-  "desc": "Good morning Ryan, and happy Tuesday, October twentieth. This is Sarah, and you're tuned in to your AI news station. Grab your coffee, because the video lane got busy overnight. Today: FLUX three Max claiming twenty-two times the speed of Seedance; Kling four point oh; ten-minute films from one prompt; a Veo deadline this Thursday; Higgsfield's new agent; Runway's Project Continuum; one-second 3D worlds; Banijay's archive; a Finnish true-crime series built on your tool stack; and the OpenAI versus Anthropic money race. As always, I'll tell you why each one matters for you, at Metronome and at ",
-  "len": 10758310,
-  "dur": 672,
-  "date": "Tue, 20 Oct 2026 07:24:47 +0200",
-  "notes": {
-   "intro": "Tuesday October 20: FLUX 3 Max on fal (22\u00d7 faster than Seedance 2.5, per fal), Kling 4.0 with 10 keyframes, stereo audio and MCP/CLI, VideoGen's 10-minute Model 1, the Veo 3.1 preview API shutdown on Oct 22, Higgsfield Supercomputer, Runway Project Continuum, Viggle JST-2, Banijay's archive-to-social work with Moments Lab, Finland's AI-built true-crime series plus a Copenhagen AI workshop for editors, and OpenAI's $30B race ahead of Anthropic's IPO.",
-   "stories": [
-    {
-     "title": "fal launches FLUX 3 Max, claiming 22\u00d7 faster AI video than Seedance 2.5",
-     "url": "https://venturebeat.com/technology/fal-launches-flux-3-max-claiming-22-faster-ai-video-generation-than-seedance-2-5",
-     "line": "~12.5s per 10s clip in fal's test, ties the leaders on Artificial Analysis I2V, 10-keyframe endpoint, 75% off until Nov 7"
-    },
-    {
-     "title": "Kling AI drops version 4.0",
-     "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
-     "line": "30s single pass, 10 keyframes, 15 references, stereo audio, Flash variant, MCP and CLI access"
-    },
-    {
-     "title": "VideoGen unveils Model 1 for ten-minute videos from one prompt",
-     "url": "https://www.aiaffairs.com/technology/videogen-model-1-ten-minute-ai-video-one-prompt/",
-     "line": "unverified claims (~80% of Seedance 2.5 at <50% cost); $1M credit pool for filmmakers open now"
-    },
-    {
-     "title": "Gemini API deprecations: Veo 3.1 previews shut down Oct 22",
-     "url": "https://ai.google.dev/gemini-api/docs/deprecations",
-     "line": "veo-3.1 (standard/fast/lite) preview endpoints retire; replacement is gemini-omni-1.1-flash ([tracker](https://synon.co.jp/article/news/2026-10-19-video-gen-ai-daily))"
-    },
-    {
-     "title": "Higgsfield launches Marketing Studio and Supercomputer",
-     "url": "https://www.prnewswire.com/news-releases/higgsfield-turns-any-product-page-into-a-finished-ad-campaign-302911758.html",
-     "line": "agent layer that plans multi-step work across Kling, Seedance and LLMs; imports Claude Code skills"
-    },
-    {
-     "title": "Runway Labs: Project Continuum",
-     "url": "https://labs.runway.com/blog/continuum",
-     "line": "research app for real-time generated video \"portals\" and agent Visual Thinking"
-    },
-    {
-     "title": "Introducing Viggle JST-2",
-     "url": "https://viggle.ai/jst2",
-     "line": "physics-native world model: 3D scenes in ~1s for <$0.01, rig-free characters, motion from text or video"
-    },
-    {
-     "title": "How Banijay activates its IP with Moments Lab",
-     "url": "https://www.momentslab.com/blog/from-archive-to-audience-banijay-entertainment",
-     "line": "MXT-3 indexes 200k+ hours; Banijay Brazil clips up 50% to 40/week ([ClipHub deal](https://www.banijay.com/blog/2026/10/15/banijay-benelux-partners-with-cliphub-to-accelerate-creator-led-audience-growth/))"
-    },
-    {
-     "title": "The Dark Side: Finnish true crime with generative AI scenes",
-     "url": "https://www.c21media.net/news/nelonen-warner-bros-intl-prep-true-crime-series-using-generative-ai-scenes/",
-     "line": "WBITVP Finland for Nelonen/Ruutu; tools: Nano Banana Pro, Kling, Higgsfield ([Origodesign](https://origodesign.fi/blog/pimea-puoli)); plus [Filmv\u00e6rksted AI workshop for editors](https://www.filmvaerksted.dk/events/ai-med-peter-stenbaek---for-klippere), Copenhagen, from Oct 25"
-    },
-    {
-     "title": "OpenAI races to raise $30B ahead of Anthropic IPO",
-     "url": "https://finance.yahoo.com/technology/ai/articles/openai-races-raise-30-bln-013303188.html",
-     "line": ">$1.4T valuation target; Anthropic Q3 revenue $16.8B; IPO expected mid-November"
-    }
-   ]
-  }
- },
- {
   "id": "20261021-071849",
   "title": "AI News, Wednesday October 21",
   "desc": "Good morning Ryan, and happy Wednesday, October twenty-first. This is Brian, and you're tuned in to your AI news station. We're halfway through the week, and the theme this morning is agents that edit. Today: an open-weight model being pitched as an unlimited Seedance; a YouTuber who cut his whole video in Claude Code without opening Final Cut; a new general video agent that hands off to Premiere and Resolve; Runway landing in the Claude Marketplace; Higgsfield's command-line tool; real-time generative rendering on a single graphics card; Nano Banana inside Gemini's new business tools, plus a ",
@@ -837,6 +774,64 @@
      "title": "Quick hits: Perplexity Teammates, Cursor web-app deploys, Claude Personal Finance",
      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
      "line": "Always-on agents arrive across the board"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261109-072312",
+  "title": "AI News, Monday November 9",
+  "desc": "Good morning, Ryan, and happy Monday! It's Monday, November ninth, I'm Brian, and this is your AI News Station. Grab your coffee, because the weekend was busy. We've got a new post-production trick from Higgsfield, a Cannes-winning director who says he made an entire feature with AI from his apartment, a fresh DaVinci Resolve update, a big new Topaz model, some very sobering math on AI feature budgets from Korea, Christopher Nolan on training data, cheaper video models everywhere, a lesson on agent memory that applies directly to your Claude Code tools, and the political weather around AI afte",
+  "len": 11169165,
+  "dur": 698,
+  "date": "Mon, 09 Nov 2026 07:23:57 +0100",
+  "notes": {
+   "intro": "Monday November 9: Higgsfield Miracle turns finished video into editable layers, Bruno Dumont's all-AI feature The End, DaVinci Resolve 21.2, Topaz Wonder 4, Korean producers warn about AI token costs, Nolan on training data, cheaper video models, Anthropic's agent memory research, and the post-midterm politics of AI power.",
+   "stories": [
+    {
+     "title": "Higgsfield Miracle: video into editable layers (private beta)",
+     "url": "https://thereelstack.com/lab/higgsfield-miracle-video-layers-private-beta-mcp",
+     "line": "Layered, depth-aware edits without re-rendering; coming to Higgsfield MCP"
+    },
+    {
+     "title": "Bruno Dumont says he made his next film entirely with AI",
+     "url": "https://sloptvnews.com/bruno-dumont-the-end-ai-feature-no-actors/",
+     "line": "The End, a sci-fi thriller made with no actors or crew; festivals and release planned for 2027"
+    },
+    {
+     "title": "DaVinci Resolve 21.2 released",
+     "url": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
+     "line": "Touch MacBook Pro support, multicam source timelines, stronger AI assistant via MCP"
+    },
+    {
+     "title": "Topaz for Web November release: Wonder 4 and Image HDR",
+     "url": "https://community.topazlabs.com/t/november-release-topaz-for-web/105647/1",
+     "line": "One-pass upscale and repair, plus SDR-to-HDR with Apple-compatible gain maps"
+    },
+    {
+     "title": "AI could make films costlier than the 35mm era, Korean pioneers warn",
+     "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
+     "line": "Token bills, revision rounds and the AI feature Raphael, opening November 25"
+    },
+    {
+     "title": "Christopher Nolan previews the DGA's next phase of AI protections",
+     "url": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
+     "line": "The Odyssey's credits carry a no-AI-training notice"
+    },
+    {
+     "title": "Kling, LTX and MiniMax video models come to Microsoft Foundry via fal",
+     "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+     "line": "Also [Wizstar's Wizshot 1.0](https://www.prnewswire.com/news-releases/wizstar-launches-wizshot-1-0--its-first-in-house-video-generation-model-making-high-quality-ai-video-creation-more-cost-efficient-302932003.html) and [Higgsfield Micro Drama Ads](https://neurocartel.com/en/blog/ai-video-news-november-7-2026)"
+    },
+    {
+     "title": "Anthropic's four layers of agent memory",
+     "url": "https://tedfactory.com/en/news/ai-news/20261107-ai-brief/",
+     "line": "Keep the always-loaded layer small; one notes page per agent"
+    },
+    {
+     "title": "AI after the US midterms",
+     "url": "https://fring.io/brief/2026-11-07.html",
+     "line": "Data center moratorium calls and Nvidia's 9% drop; plus [Anthropic's reported $3.4B power deal and Apple's AI push](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-9-2026/)"
     }
    ]
   }
