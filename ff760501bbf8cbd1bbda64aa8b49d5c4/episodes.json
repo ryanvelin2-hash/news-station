@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261021-071849",
-  "title": "AI News, Wednesday October 21",
-  "desc": "Good morning Ryan, and happy Wednesday, October twenty-first. This is Brian, and you're tuned in to your AI news station. We're halfway through the week, and the theme this morning is agents that edit. Today: an open-weight model being pitched as an unlimited Seedance; a YouTuber who cut his whole video in Claude Code without opening Final Cut; a new general video agent that hands off to Premiere and Resolve; Runway landing in the Claude Marketplace; Higgsfield's command-line tool; real-time generative rendering on a single graphics card; Nano Banana inside Gemini's new business tools, plus a ",
-  "len": 10772104,
-  "dur": 673,
-  "date": "Wed, 21 Oct 2026 07:21:03 +0200",
-  "notes": {
-   "intro": "Wednesday October 21: FastH3 Omni open weights, Ben Vallack's Claude Code edit suite, Mosaic's Motion video agent, Runway in Claude Marketplace, Higgsfield CLI, Tripo EdenLive, Gemini business tools with Nano Banana 2.1 plus the Veo 3.1 preview shutdown, Nordic voices on AI at MIPCOM, and Anthropic's draft IPO prospectus.",
-   "stories": [
-    {
-     "title": "FastH3-Omni: open-weight \"unlimited Seedance\"",
-     "url": "https://nuvalab.ai/fasth3/",
-     "line": "distilled MiniMax H3 with image/video/audio references, 5-15s with sound, 5.6-11.9\u00d7 lower latency on 8 GB200s ([FastVideo](https://haoailab.com/blogs/fastvideo-omniref-update/))"
-    },
-    {
-     "title": "Ben Vallack had Claude Code build his edit suite",
-     "url": "https://thereelstack.com/lab/ben-vallack-claude-code-edit-suite-voice-notes",
-     "line": "transcript cutting, transcribed B-roll library, phone trim app and timecoded voice-note review, no Final Cut"
-    },
-    {
-     "title": "Mosaic introduces Motion, the General Video Agent",
-     "url": "https://mosaic.so/research/motion-gva",
-     "line": "edits, motion design, color and sync; exports to Premiere, After Effects, Resolve (no FCP); framework cost test"
-    },
-    {
-     "title": "Runway joins Claude Marketplace",
-     "url": "https://runway.com/news/company-news/runway-claude-marketplace",
-     "line": "buy Runway Creative with Anthropic commitment; Claude powers Runway Agent"
-    },
-    {
-     "title": "Higgsfield CLI guide",
-     "url": "https://higgsfield.ai/blog/higgsfield-cli",
-     "line": "open source, browser sign-in, same credits (no Unlimited); Seedance 2.5 5s 1080p 80 credits, 15 in draft"
-    },
-    {
-     "title": "Tripo AI launches EdenLive",
-     "url": "https://www.prnewswire.com/news-releases/tripo-ai-announces-major-milestone-in-its-world-model-with-real-time-generative-rendering-for-interactive-experiences-302914408.html",
-     "line": "real-time 720p generative rendering at 24+ fps on one RTX 5090, restyling and previs"
-    },
-    {
-     "title": "New Gemini tools for small business owners",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
-     "line": "saved brand style with Nano Banana 2.1; plus [Veo 3.1 previews retire as early as Oct 22](https://ai.google.dev/gemini-api/docs/deprecations)"
-    },
-    {
-     "title": "Scale, survival and the AI question at MIPCOM",
-     "url": "https://nordiskfilmogtvfond.com/news/stories/scale-survival-and-the-ai-question-nordic-industry-voices-take-stock-at-mipcom",
-     "line": "SVT sees AI-generated factual in the pipeline; Banijay's Lucas Green on Nordic IP; archive-for-training ethics"
-    },
-    {
-     "title": "Anthropic's draft IPO prospectus",
-     "url": "https://www.curatedai.net/briefing/2026-10-20.html",
-     "line": "per WSJ: H1 revenue $16.3B, $80.7B net loss (\u2248$72B non-cash), tentative November IPO"
-    }
-   ]
-  }
- },
- {
   "id": "20261022-072608",
   "title": "AI News, Thursday October 22",
   "desc": "Good morning Ryan, and happy Thursday, October twenty-second. This is Sarah, and you're tuned in to your AI news station. Yesterday was one of those days where everybody shipped at once, so we've got a full rundown. We've got OpenAI inside Google Cloud, a new Claude agent plus an API change that could break your own tools, Kling 4.0, an open video model running on a Mac, live voice translation, and three stories from Nordic TV, including one from inside the Banijay family. As always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. OpenAI's models",
@@ -832,6 +774,64 @@
      "title": "AI after the US midterms",
      "url": "https://fring.io/brief/2026-11-07.html",
      "line": "Data center moratorium calls and Nvidia's 9% drop; plus [Anthropic's reported $3.4B power deal and Apple's AI push](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-9-2026/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261110-072608",
+  "title": "AI News, Tuesday November 10",
+  "desc": "Good morning, Ryan, and happy Tuesday! It's Tuesday, November tenth, I'm Sarah, and this is your AI News Station. Pour yourself a coffee, because there's a lot on the table this morning. Anthropic has new Claude models that matter for your tool building. Disney is getting its own custom generative models from Adobe. Apple has started charging for extra AI usage in its Creator Studio apps, and Final Cut Pro is next in line. The boss of Weta FX says Hollywood has flipped completely on generative AI. A big Norwegian drama is using AI instead of traditional effects, and the union wants answers. Pl",
+  "len": 11396117,
+  "dur": 712,
+  "date": "Tue, 10 Nov 2026 07:26:35 +0100",
+  "notes": {
+   "intro": "Tuesday November 10: Claude Fable 5.2 and Mythos 5.2, Disney's custom Firefly models with Adobe, Apple's paid AI usage packs heading to Final Cut Pro, Weta FX on Hollywood's AI flip, Norway's Isfolket AI debate, Seedream 5.5 with transparent output, Paramount's Ellison on AI as the new CGI, Video-Coder's 3D blockouts, and quick hits.",
+   "stories": [
+    {
+     "title": "Anthropic introduces Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "line": "Up to 30% faster, $8/$40 per million tokens, extra Fable usage this week"
+    },
+    {
+     "title": "Adobe and Disney announce a multi-year AI alliance",
+     "url": "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance",
+     "line": "Custom Firefly Foundry models trained on Disney properties"
+    },
+    {
+     "title": "Apple launches $50 intelligence usage packs",
+     "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+     "line": "Logic Pro first, Final Cut Pro and Pixelmator Pro expected next"
+    },
+    {
+     "title": "Weta FX: \"If you don't have an AI strategy, don't bother\"",
+     "url": "https://variety.com/2026/film/news/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070/",
+     "line": "Studios flipped from banning gen AI to requiring it; Kling and Seedance where allowed"
+    },
+    {
+     "title": "Norwegian Film Workers want answers on AI in Isfolket",
+     "url": "https://www.document.no/2026/11/09/filmforbundet-vil-mote-isfolket-produsentene-for-a-hore-om-ki-bruk",
+     "line": "Rubicon's \"VFX without green screen\" sparks union concern (NTB, in Norwegian)"
+    },
+    {
+     "title": "ByteDance introduces Seedream 5.5",
+     "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+     "line": "Native RGBA output and stable editing across 100 rounds"
+    },
+    {
+     "title": "David Ellison: AI could be the biggest creative unlock in modern history",
+     "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+     "line": "Paramount Skydance CEO compares AI to CGI, says it won't replace artists"
+    },
+    {
+     "title": "Video-Coder scripts 3D scenes before video generation",
+     "url": "https://emergent.sh/news/video-coder-agent-scripts-3d-scenes-before",
+     "line": "Blender blockouts guide the video model; plus [NVIDIA FastGen](https://thenextgentechinsider.com/pulse/nvidia-fastgen-accelerates-video-diffusion-inference-speed)"
+    },
+    {
+     "title": "Quick hits from The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/",
+     "line": "OpenAI Control Room, Anthropic's retracted IPO details, Fireworks AI breach"
     }
    ]
   }
