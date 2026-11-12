@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261023-072132",
-  "title": "AI News, Friday October 23",
-  "desc": "Good morning Ryan, and happy Friday, October twenty-third. This is Brian, and you're tuned in to your AI news station. Today we've got Anthropic handing its skills format to a neutral foundation, Canva building its own image model, a quiet pile of new models in the Magnific API, an open research model that turns grey-box scenes into realistic video, a Japanese service that trains private video models on a company's own footage, and four stories about AI moving into real drama production, from Netflix's own visual effects house to a new talent firm for AI studios. As always, I'll tell you why e",
-  "len": 11169583,
-  "dur": 698,
-  "date": "Fri, 23 Oct 2026 07:23:54 +0200",
-  "notes": {
-   "intro": "Friday October 23: Anthropic donates Agent Skills to the Agentic AI Foundation, Canva Craft, Nano Banana 2.1 / Ideogram 4.5 / Magnific One in the Magnific API, SolarRenderer structure-to-video, ai& video private enterprise models, Netflix Eyeline's hybrid production, VCAT on TV Asahi's Sanada Juyushi, Nova's $10M+ real-actor AI series slate, and Collage, a management firm for AI studios.",
-   "stories": [
-    {
-     "title": "Donating Agent Skills to the Agentic AI Foundation",
-     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-     "line": "SKILL.md standard goes to the Linux Foundation's AAIF; 70+ platforms, ~280M installs; versioned releases proposed ([Dbggr on Open Responses, OpenEnv, OpenSandbox](https://dbggr.dev/daily/2026-10-22-agent-skills-open-responses-aaif-google-agent-compute-engine/))"
-    },
-    {
-     "title": "Canva releases its first image generation model",
-     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "line": "Canva Craft plans then renders up to 2K in 30 ratios, trained on design templates, converts to layered designs; API and MCP coming"
-    },
-    {
-     "title": "Magnific API changelog",
-     "url": "https://docs.magnific.com/changelog/2026",
-     "line": "Nano Banana 2.1 with 14 named references (Oct 14), Ideogram 4/4.5 for legible text (Oct 15), Magnific One with contact-sheet draft mode (Oct 8)"
-    },
-    {
-     "title": "SolarRenderer: layouts, depth and poses to realistic video in four steps",
-     "url": "https://at-pulse.com/stories/3750/",
-     "line": "two LoRAs on MiniMax H3, 1344\u00d7768, 12.3\u00d7 faster than 50-step; code, weights and data released; results not yet replicated"
-    },
-    {
-     "title": "ai& launches ai& video",
-     "url": "https://www.aiand.com/newsroom/aiandvideo-announcement",
-     "line": "Japan-hosted text/photo/video-to-video in as little as 12s; enterprises can train private models on assets they own"
-    },
-    {
-     "title": "How Netflix's Eyeline uses AI (View Conference)",
-     "url": "https://www.jingletree.com/how-ai-is-used-by-netflix-at-its-vfx-eyeline-studios-revealed-by-vp-mohsen-mousavi-at-view-conference-287405.html",
-     "line": "\"hybrid production\": sparse sets, post-shoot camera and relighting, Brazil '70 crowds; gen AI gets \"60, 70%\" of the way"
-    },
-    {
-     "title": "VCAT joins TV Asahi/Netflix period drama as AI production partner",
-     "url": "https://www.digitaltoday.co.kr/en/view/118692/vcat-joins-tv-asahi-netflix-period-drama-series-as-ai-production-partner",
-     "line": "AI action scenes for Sanada Juyushi matched to on-set camera work; all-AI promo on Times Square"
-    },
-    {
-     "title": "Nova starts production on a $10M+ real-actor AI series slate",
-     "url": "https://www.einpresswire.com/article/950019149/nova-starts-production-on-a-us-10m-real-actor-ai-series-slate-one-of-the-most-ambitious-yet",
-     "line": "The Last Ferry, Starsown and Nian; signed actors plus digital doubles; first title summer 2027 (company press release)"
-    },
-    {
-     "title": "Collage wants to navigate new AI studios through the Hollywood system",
-     "url": "https://dnyuz.com/2026/10/23/collage-wants-to-navigate-new-ai-studios-through-the-hollywood-system/",
-     "line": "ex-UTA agent Dante DeSario's management firm for Asteria, Secret Level, Matriarch and DEFECT (via TheWrap)"
-    }
-   ]
-  }
- },
- {
   "id": "20261026-072140",
   "title": "AI News, Monday October 26",
   "desc": "Good morning Ryan, and happy Monday, October twenty-sixth. This is Brian, and you're tuned in to your AI news station. Today we've got Seedance going 4K for film and TV, fresh money for Higgsfield and an open-source challenge aimed right at it, Apple's touchscreen MacBook Pro due Wednesday, a Danish AI news outlet launching tomorrow, and the Elvis estate suing Anthropic. Ten stories in all, and as always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's go.\n\nStory one. ByteDance has launched Seedance 2.5 4K, a version of its video model aimed squarely at film and",
@@ -837,6 +779,64 @@
      "title": "Quick hits from The Neuron",
      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
      "line": "OpenAI's ~$10B quarter, ChatGPT voice changes on Dec 11, MiniMax H3-Image open weights"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261112-072531",
+  "title": "AI News, Thursday November 12",
+  "desc": "Good morning, Ryan! It's Thursday, November twelfth, and this is Sarah with your AI News Station. I hope the coffee is hot, because today has a bit of everything. Adobe's research team showed off some genuinely wild video experiments, Norway is having a loud public fight about generative AI in a big TV 2 drama, the director of The Lion King is making a family film with AI dogs, and the world's most important AI chip company is in a leadership crisis. Nine stories today. Let's get into it.\n\nStory number one. Adobe MAX Sneaks, and the video experiments. Every year at MAX, Adobe's researchers sho",
+  "len": 11565808,
+  "dur": 722,
+  "date": "Thu, 12 Nov 2026 07:26:01 +0100",
+  "notes": {
+   "intro": "Thursday November 12: Adobe MAX Sneaks (Live Set, Scene Sweep, On Cue, Screen Test, Sound Bender), the Isfolket AI row in Norway, Rob Minkoff's AI film Storm Dogs, Nvidia's board weighs Jensen Huang's future, Runway's open-weight Praxis-1, film schools teaching AI, Gemini on CarPlay, model retirements and quick hits.",
+   "stories": [
+    {
+     "title": "Adobe MAX 2026 Sneaks: Previewing the future of creativity",
+     "url": "https://blog.adobe.com/en/publish/2026/11/11/adobe-max-sneaks",
+     "line": "Live Set, Scene Sweep, On Cue, Screen Test and Sound Bender research previews; see also [Variety on Project Live Set](https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/)"
+    },
+    {
+     "title": "KI-br\u00e5k rundt \"Sagaen om Isfolket\"",
+     "url": "https://www.filmweb.no/streamingguide/artikkel/ki-brak-rundt-isfolket",
+     "line": "Rubicon and Reimagine plan generative AI for TV 2's Isfolket; NOK 4.2M NFI support sparks criticism"
+    },
+    {
+     "title": "The Lion King co-director is making an AI talking-dog film",
+     "url": "https://www.screenweaver.ai/blog/storm-dogs-ai-talking-dog-film-minkoff",
+     "line": "Rob Minkoff directs Storm Dogs for Particle 6, per The Hollywood Reporter"
+    },
+    {
+     "title": "Nvidia board meets to decide CEO Huang's future",
+     "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-oust-board-affair-6544031",
+     "line": "Stock down 8% after hours; results due Nov 17"
+    },
+    {
+     "title": "Runway Praxis-1 is now available",
+     "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+     "line": "27B open-weight world action model under Apache 2.0"
+    },
+    {
+     "title": "Hollywood warned young screenwriters about AI. Now it may be their ticket in",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-11/ai-help-new-screenwriters-film-schools-education",
+     "line": "LA Times on film schools, AI pitch decks and Netflix's ~300 gen-AI programs"
+    },
+    {
+     "title": "Gemini is now available on Apple CarPlay",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+     "line": "Gemini Live rolling out globally; Daily Brief not in the EEA"
+    },
+    {
+     "title": "Magnific API changelog",
+     "url": "https://docs.magnific.com/changelog/2026",
+     "line": "Kling 1.6/2.0/2.1 removed, ElevenLabs Voiceover v3 and v4 added; plus [Vyond on Veo 3.1 Fast retirement](https://product.vyond.com/lite-model-update-for-video-clip-generation/)"
+    },
+    {
+     "title": "Quick hits from The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/",
+     "line": "United blocks agent bookings, Qwen4-Max-Preview, Gemini Decisions API, AWS Emulator, Ramp AI Index"
     }
    ]
   }
