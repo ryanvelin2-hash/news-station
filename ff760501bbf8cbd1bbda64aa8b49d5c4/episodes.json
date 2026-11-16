@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261027-072217",
-  "title": "AI News, Tuesday October 27",
-  "desc": "Good morning Ryan, and happy Tuesday, October twenty-seventh. This is Sarah, and you're tuned in to your AI news station. Today is a launch day right here in Denmark, with Projekt Y going live this afternoon. We've also got Runway's new App Studio, a sobering box office number for China's first AI feature film, Anthropic filing to go public, and Apple's busy launch week. Nine stories in all, and as always, I'll tell you why each one matters for you, at Metronome and at Emergent. Let's get into it.\n\nStory one. Projekt Y goes live today. According to DR, Y opens to readers at one o'clock this af",
-  "len": 10559363,
-  "dur": 659,
-  "date": "Tue, 27 Oct 2026 07:24:07 +0100",
-  "notes": {
-   "intro": "Tuesday October 27: Projekt Y goes live at 13:00, Runway's no-code App Studio, ByteDance Jimeng's short-drama studio, China's first AI feature Sanxingdui flopping at the box office, Riverside's video-editing agents, OpenAI's GPT-6.1 Terra, Anthropic's IPO filing, Apple's iPad mini and Pro and Tell week, and new AI studios Inevitable and Lux Meridian.",
-   "stories": [
-    {
-     "title": "I morgen g\u00e5r nyt AI-medie i luften: 'Vi g\u00e5r faktisk mod str\u00f8mmen'",
-     "url": "https://www.dr.dk/nyheder/indland/i-morgen-gaar-nyt-ai-medie-i-luften-vi-gaar-faktisk-mod-stroemmen",
-     "line": "Michael Dyrby's AI-assisted outlet Y launches today at 13:00 on y.dk; text plus audio versions, 40-50 articles/day goal, RUC researcher Aske Kammer sceptical ([B.T.](https://www.bt.dk/samfund/dansk-medie-med-nyheder-skrevet-af-kunstig-intelligens-lanceres-tirsdag))"
-    },
-    {
-     "title": "Introducing Runway App Studio",
-     "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
-     "line": "describe a tool in plain language and get a custom app using your Brand Kits and Workflows; built-ins include Character Swap, 3D Camera Control and Precise Edit; included in all paid plans"
-    },
-    {
-     "title": "ByteDance launches AI studio for short-drama production",
-     "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-     "line": "Jimeng combines script (DreamScript), images (Anycook), storyboards (DreamShot), production and post; shot replacement and restyling dramas for other markets"
-    },
-    {
-     "title": "China's first AI feature flops at the Chinese box office",
-     "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
-     "line": "Bona's Sanxingdui: Future Past made ~RMB1.21M ($181K) through Monday vs RMB10M+ cost; Vidu-powered, grading and 5.1 mix still conventional ([Magica](https://magica.com/news/bona-sanxingdui-future-past-ai-film-opening-box-office))"
-    },
-    {
-     "title": "The first team of AI agents built for video",
-     "url": "https://riverside.com/blog/first-team-of-ai-agents-built-for-video",
-     "line": "Riverside Agents: Producer, Editor, Clipper and Marketer on web and iOS; nothing publishes without your sign-off"
-    },
-    {
-     "title": "Introducing GPT-6.1 Terra",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-     "line": "fast, cheaper computer-use model; benchmark tasks include time-coded shot logging of an animated film; $1/$5 per million input/output tokens"
-    },
-    {
-     "title": "Anthropic files S-1 for proposed IPO",
-     "url": "https://www.anthropic.com/news/s1-sec",
-     "line": "Nasdaq ticker ANT, size and price not set; H1 2026 revenue $16.3B, founders keep 50.1% voting power ([TechCrunch](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/))"
-    },
-    {
-     "title": "Apple gives iPad mini its biggest update ever",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-     "line": "8.5\" OLED, A20 Pro, IP67, from $699, pre-orders Oct 28, available Nov 6; touchscreen MacBook Pro expected at \"Pro and Tell\" Oct 28, 18:00 CET ([Macworld live blog](https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html))"
-    },
-    {
-     "title": "AI studio Inevitable raises \u20ac15m funding",
-     "url": "https://www.advanced-television.com/2026/10/26/ai-studio-inevitable-raises-e15m-funding/",
-     "line": "French studio aims for \u2264100-min features in four months for $250K; plus Territory Group's [Lux Meridian](https://thegenerated.com/notes/the-team-behind-dune-s-screens-launches-an-ai-20261026) built on Adobe Firefly Foundry, unnamed Hollywood studio deal"
-    }
-   ]
-  }
- },
- {
   "id": "20261028-072549",
   "title": "AI News, Wednesday October 28",
   "desc": "Good morning Ryan, and happy Wednesday, October twenty-eighth! It's Brian, and this is your AI News Station. Grab your coffee, because today is Apple's big Pro and Tell day, and Apple got a head start yesterday with news that lands squarely on your timeline. We've also got a new world model from Google DeepMind, two all-in-one AI video studios, open-source tools out of the Higgsfield challenge, harsh reviews for Musk's AI Odyssey, the Academy on human work, and a first-day report card for Denmark's AI news outlet Y. Nine stories in all. Let's go.\n\nStory number one: Final Cut Pro gets its bigge",
@@ -837,6 +779,64 @@
      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
      "url": "https://www.cnbctv18.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development-20033138.htm",
      "line": "Reuters: nonprofits sue in San Francisco under California law"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261116-072108",
+  "title": "AI News, Monday November 16",
+  "desc": "Good morning, Ryan, and welcome to a brand new week! It's Monday, November sixteenth, and this is your AI News Station. I'm Brian, and I'll be keeping you company for the next ten minutes or so. This morning we've got a new color grading plug-in that lives right inside Final Cut Pro, an award for an AI virtual production method, a Disney+ series that shows how AI-assisted animation really gets made, an honest look at how AI features are doing in cinemas, and a long-form talking avatar model you can download. Nine stories today. Grab your coffee, and let's get into it.\n\nStory number one. A new ",
+  "len": 10437736,
+  "dur": 652,
+  "date": "Mon, 16 Nov 2026 07:21:51 +0100",
+  "notes": {
+   "intro": "Monday November 16: Density brings group grading and film emulation into Final Cut Pro, ACME's Grey Box wins a virtual production award, Disney+ picks up Animaj's AI-assisted Ozzy Fox, La Repubblica on AI features at the box office, LongCat Video Avatar 1.6 and the Seedance 2.5 Flash API, Anthropic's Opus 5.5 prompting advice, the Jensen Huang comeback campaign, ChatGPT Wallet and Anthropic's IPO, plus quick hits.",
+   "stories": [
+    {
+     "title": "Density: color grading and film emulation in Final Cut Pro",
+     "url": "https://density.film/",
+     "line": "Clip groups, Auto Setup with camera Log detection, DWG/ACES 2, 57 film stocks, $169 one-time; spotted on [FCP Cafe](https://fcp.cafe/)"
+    },
+    {
+     "title": "ACME Media wins a Monolith Award for its Grey Box method",
+     "url": "https://sloptvnews.com/acme-media-grey-box-virtual-production-monolith-award/",
+     "line": "Real performances, generated worlds; 213 locations in 21 days claimed for Doug Liman's Bitcoin"
+    },
+    {
+     "title": "Disney+ gets Ozzy Fox in December, studio says artists drew it",
+     "url": "https://news.sulat.com/2026/11/14/ozzy-fox-disney-plus/",
+     "line": "Animaj's Sketch-to-Motion and FlipMove: artists draw key poses and approve every frame"
+    },
+    {
+     "title": "AI-generated cinema is heading to the big screen",
+     "url": "https://www.repubblica.it/en/entertainment/cinema/2026/11/15/news/ai-generated_cinema_is_heading_to_the_big_screen_fantasy_arthouse_and_even_italian_films-425724001/",
+     "line": "Box office flops in China and Korea; Aurion's director on feature-length character consistency"
+    },
+    {
+     "title": "Meituan releases LongCat Video Avatar 1.6",
+     "url": "https://aipingnews.com/en/news/2433-meituan-longcat-video-avatar-1-6-long-video-weights",
+     "line": "MIT-licensed talking avatars beyond 10 minutes; plus [Seedance 2.5 Flash API opens on ModelArk and fal](https://huggingnews.com/ai/bytedance-launches-seedance-25-flash-video-ai-on-fal-and-modelark-platfo-08fc0b7f) at $0.152/s for 720p"
+    },
+    {
+     "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+     "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+     "line": "Drop \"think hard,\" start at Medium effort, brief the end result in one message"
+    },
+    {
+     "title": "Calls for Huang's return to Nvidia grow",
+     "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+     "line": "160,000-signature petition, FT reports comeback talks; earnings Tuesday"
+    },
+    {
+     "title": "ChatGPT Wallet and Anthropic's IPO",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/",
+     "line": "Agent purchases with per-transaction approval; ANT priced at $70\u201378, pricing expected Nov 18 (via [KIavisa](https://kiavisa.no/daglig-ki/))"
+    },
+    {
+     "title": "Quick hits",
+     "url": "https://kiavisa.no/daglig-ki/",
+     "line": "Denmark 4th in IMD's AI readiness ranking; [Firefly third-party model licensing and Apple's AI glasses report](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/)"
     }
    ]
   }
