@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261028-072549",
-  "title": "AI News, Wednesday October 28",
-  "desc": "Good morning Ryan, and happy Wednesday, October twenty-eighth! It's Brian, and this is your AI News Station. Grab your coffee, because today is Apple's big Pro and Tell day, and Apple got a head start yesterday with news that lands squarely on your timeline. We've also got a new world model from Google DeepMind, two all-in-one AI video studios, open-source tools out of the Higgsfield challenge, harsh reviews for Musk's AI Odyssey, the Academy on human work, and a first-day report card for Denmark's AI news outlet Y. Nine stories in all. Let's go.\n\nStory number one: Final Cut Pro gets its bigge",
-  "len": 11537387,
-  "dur": 721,
-  "date": "Wed, 28 Oct 2026 07:28:16 +0100",
-  "notes": {
-   "intro": "Wednesday October 28: Apple Creator Studio's big Final Cut Pro update, M6 MacBook Pro and iMac ahead of tonight's Pro and Tell, Google DeepMind's Genie 4, Genspark Media Studio, CapCut's EditPilot and ChatGPT plugin, Henge and Higgsfield's open Inside AI project, reviews of Musk's AI Odyssey, the Academy on human-driven work, and a first-day verdict on Denmark's AI outlet Y.",
-   "stories": [
-    {
-     "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-     "line": "free November update: MotionVFX built into Final Cut Pro, Content Hub stock video, Pixelmator round-trip, disconnect clips from the primary storyline, more keyframe easing, 23 new transcription languages; MCP in Keynote, Pages and Numbers"
-    },
-    {
-     "title": "Everything Apple announced this week so far",
-     "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/",
-     "line": "M6 14\" MacBook Pro from $1,999 and M6 iMac from $1,499, pre-orders today, available Nov 6; OLED touchscreen MacBook Pro expected at Pro and Tell, 18:00 CET ([MacRumors preview](https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/))"
-    },
-    {
-     "title": "Genie 4: A new generation of world simulation",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "line": "real-time steerable worlds with native music, ambience and dialogue; trusted testers now, AI Ultra and Gemini API partners next"
-    },
-    {
-     "title": "Genspark Media Studio",
-     "url": "https://www.genspark.ai/blog/genspark-media-studio",
-     "line": "agent \"director\" plans script, storyboard and budget, then orchestrates Seedance 2.5, Nano Banana, ElevenLabs and more; multi-track timeline and 3D blockout stage"
-    },
-    {
-     "title": "CapCut World Los Angeles announcements",
-     "url": "https://www.capcut.com/newsroom/capcut-world-la",
-     "line": "EditPilot natural-language editing, Generative and Interactive Edit, and a ChatGPT plugin for conversational first cuts in the coming months"
-    },
-    {
-     "title": "Henge open studio, plus Higgsfield open-sources Inside AI",
-     "url": "https://thereelstack.com/lab/henge-open-video-studio-minimax-h3-motion-transfer-character-swap-higgsfield-inside-ai",
-     "line": "MIT ComfyUI/MiniMax H3 app for character swap, head swap and motion transfer with MCP; needs 32 GB VRAM locally; #OpenSourceHiggsfield closes Oct 30"
-    },
-    {
-     "title": "Reviewers slate Musk's AI-made Odyssey film",
-     "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
-     "line": "one star from Peter Bradshaw; Wonder Studios made the 7-minute episode in under two weeks with a team of three, 7.3M views"
-    },
-    {
-     "title": "Oscars will 'always' reward human excellence in AI era",
-     "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
-     "line": "Academy president on human-driven workflow, copyright and disclosure; plus [Ava DuVernay defends AI-animated photos in 14th](https://filmstories.co.uk/news/ava-duvernay-defends-ai-use-for-animating-moments-in-her-latest-film/)"
-    },
-    {
-     "title": "Nyt AI-medie uden journalister skuffer forsker",
-     "url": "https://www.dr.dk/nyheder/indland/nyt-ai-medie-uden-journalister-skuffer-forsker",
-     "line": "DMJX's Peder Hammerskov: 22 of 43 day-one articles from Ritzau, Reuters or press releases; audio versions the most innovative part but lack context"
-    }
-   ]
-  }
- },
- {
   "id": "20261029-072430",
   "title": "AI News, Thursday October 29",
   "desc": "Good morning Ryan, and happy Thursday, October twenty-ninth! It's Sarah, and this is your AI News Station. Last night Apple finally did the thing it said it would never do, and put a touchscreen on the Mac, with Final Cut Pro touch controls built right in. We've also got a big Higgsfield update that reads like a director's wish list, a new ElevenLabs model that matters for anyone who cares about subtitles, ByteDance going all in on AI short dramas, a new frontier model from Google, a sobering security report from Anthropic, an open-source video model that writes code instead of pixels, a Banij",
@@ -837,6 +779,69 @@
      "title": "Quick hits",
      "url": "https://kiavisa.no/daglig-ki/",
      "line": "Denmark 4th in IMD's AI readiness ranking; [Firefly third-party model licensing and Apple's AI glasses report](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261117-072046",
+  "title": "AI News, Tuesday November 17",
+  "desc": "Good morning, Ryan! It's Tuesday, November seventeenth, and this is your AI News Station. I'm Sarah, and I'll be with you for the next ten minutes or so. Today we've got ElevenLabs buying a Japanese voice lab, a big upgrade to an AI tool that swaps the world around your actors in post, Higgsfield turning whole scripts into short drama series, a new Final Cut Pro companion update, Apple putting daily limits on its cloud AI, and the first collective AI protections for actors in the UK. Ten stories today. Pour yourself a coffee, and let's go.\n\nStory number one. ElevenLabs is acquiring Kotoba Tech",
+  "len": 10882445,
+  "dur": 680,
+  "date": "Tue, 17 Nov 2026 07:21:13 +0100",
+  "notes": {
+   "intro": "Tuesday November 17: ElevenLabs buys Japanese voice lab Kotoba, Beeble SwitchX 3.0, Higgsfield's Short Drama Studio, the Seedance 2.5 4K API with draft mode and Vimoo 1.0 on Apple silicon, Doza 1.1.16 for Final Cut Pro, Apple's daily Siri AI limits, Equity's UK AI protections, California sues OpenAI, Nvidia earnings tonight, plus quick hits.",
+   "stories": [
+    {
+     "title": "Kotoba is joining ElevenLabs",
+     "url": "https://elevenlabs.io/blog/kotoba",
+     "line": "ElevenLabs' first Japan acquisition, $100M+ per [Nikkei Asia](https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba); Koto model, closing later in Q4"
+    },
+    {
+     "title": "Beeble SwitchX 3.0 adds dynamic backgrounds, improved camera tracking, and more",
+     "url": "https://www.redsharknews.com/beeble-switchx-3-0-dynamic-backgrounds-references",
+     "line": "Up to four references, performance-locked environment swaps, 4K 10-bit, 15 s cap at 24 fps"
+    },
+    {
+     "title": "Higgsfield's Short Drama Studio turns a script into a season",
+     "url": "https://sloptvnews.com/higgsfield-short-drama-studio-script-to-season/",
+     "line": "Script upload to episodes, also inside Claude and ChatGPT; no pricing published yet"
+    },
+    {
+     "title": "Seedance 2.5 4K API opens with a 480p draft mode, plus Vimoo 1.0 with MLX weights",
+     "url": "https://neurocartel.com/en/blog/ai-video-news-november-16-2026",
+     "line": "Draft at 480p, final at 4K 10-bit; open 720p model runs on Apple silicon; GASP chart: 19 of top 40 vertical series AI-tagged"
+    },
+    {
+     "title": "Doza 1.1.16, WaveXML 2.0.2 and CommandPost v3 news",
+     "url": "https://fcp.cafe/readme.md",
+     "line": "Multicam interviews to one FCP timeline in story order, side-by-side transcript translation"
+    },
+    {
+     "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+     "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+     "line": "Per-device daily limits on cloud AI features; iCloud+ raises them up to 20x; see [Apple Support](https://support.apple.com/en-us/127901)"
+    },
+    {
+     "title": "Equity secures UK-first AI protections for performers",
+     "url": "https://www.equity.org.uk/news/2026/equity-secures-uk-first-ai-protections-for-performers",
+     "line": "Pact deal with replica consent and pay, no blanket consent; details via [Deadline](https://deadline.com/2026/11/equity-pact-deal-offer-ai-provisions-streamer-residuals-1237222636/)"
+    },
+    {
+     "title": "California sues OpenAI for Hugging Face and other incidents",
+     "url": "https://therecord.media/california-sues-openai-hugging-face",
+     "line": "AG Bonta alleges 80+ loss-of-control incidents in testing; OpenAI disputes the framing"
+    },
+    {
+     "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang's exit",
+     "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
+     "line": "Results tonight around 22:20 Danish time; ~$109.1B revenue expected"
+    },
+    {
+     "title": "Quick hits",
+     "url": "https://kiavisa.no/daglig-ki/",
+     "line": "Danish bill on public-sector AI use of personal data (first reading Dec 3); Reservoir expands lawsuits against Suno and Anthropic"
     }
    ]
   }
