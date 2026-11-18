@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261029-072430",
-  "title": "AI News, Thursday October 29",
-  "desc": "Good morning Ryan, and happy Thursday, October twenty-ninth! It's Sarah, and this is your AI News Station. Last night Apple finally did the thing it said it would never do, and put a touchscreen on the Mac, with Final Cut Pro touch controls built right in. We've also got a big Higgsfield update that reads like a director's wish list, a new ElevenLabs model that matters for anyone who cares about subtitles, ByteDance going all in on AI short dramas, a new frontier model from Google, a sobering security report from Anthropic, an open-source video model that writes code instead of pixels, a Banij",
-  "len": 11472185,
-  "dur": 716,
-  "date": "Thu, 29 Oct 2026 07:25:27 +0100",
-  "notes": {
-   "intro": "Thursday October 29: Apple's touchscreen MacBook Pro with Final Cut Pro touch, Higgsfield Cinema Studio 4.0, ElevenLabs' Cue aligner, ByteDance's AI short-drama studio, Google's Gemini 4 Carbon, Anthropic's red-team exploit research, SenseTime's open Code2Video, Banijay UK's restructure, and Idris Elba's Google-backed AI filmmaking program.",
-   "stories": [
-    {
-     "title": "Apple unveils MacBook Pro with PROLED XDR Display and Touch",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
-     "line": "tandem OLED, 2000 nits SDR/HDR, genlock, Final Cut Pro touch for marking ranges and pinch-zoom; from $2,899, ships Nov 6 ([ProVideo Coalition take](https://www.provideocoalition.com/apple-introduces-new-macbook-pro-with-proled-xdr-display-and-a-touchscreen/))"
-    },
-    {
-     "title": "Higgsfield Cinema Studio 4.0",
-     "url": "https://www.prnewswire.com/news-releases/higgsfield-cinema-studio-4-0-gives-ai-filmmakers-more-control-over-every-scene-302921818.html",
-     "line": "Director's Panel, 30-second multi-shot scenes, 50 references, decade and film-stock looks, Extend and Edit Video"
-    },
-    {
-     "title": "ElevenLabs: Forced alignment with Cue",
-     "url": "https://elevenlabs.io/blog/cue-aligner",
-     "line": "character-level timing behind Scribe, subtitles and dubbing; an hour of audio in under a second; Forced Alignment API"
-    },
-    {
-     "title": "ByteDance launches AI studio for short-drama production",
-     "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
-     "line": "Jimeng's script-to-post workflow with shot replacement and style remakes for new markets"
-    },
-    {
-     "title": "Introducing Gemini 4 Carbon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-     "line": "Google's strongest cybersecurity and long-horizon model; limited Fairwind rollout; $2/$10 per million tokens introductory"
-    },
-    {
-     "title": "Anthropic: Discovering and exploiting vulnerabilities with Claude",
-     "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-     "line": "unreleased model chained Chrome and Safari exploits; patch your Macs ([The Hacker News](https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html))"
-    },
-    {
-     "title": "SenseTime open-sources Code2Video",
-     "url": "https://news.shorstory.com/en/articles/daily-2026-10-29/",
-     "line": "27B Apache 2.0 model that writes code for each frame; for motion graphics and titles, not photoreal"
-    },
-    {
-     "title": "Banijay UK creates Banijay Scotland and restructures OMG and North One",
-     "url": "https://www.banijay.com/blog/2026/10/27/banijay-uk-announces-the-creation-of-banijay-scotland-and-structural-changes-to-objective-media-group-and-north-one/",
-     "line": "Glasgow hub backed by Banijay Post Production; OMG refocused on scripted"
-    },
-    {
-     "title": "Idris Elba backs African AI filmmaking",
-     "url": "https://www.semafor.com/article/10/28/2026/hollywood-actor-idris-elba-backs-african-ai-filmmaking",
-     "line": "Akuna Group's one-year course with $1M from Google; creators own their films"
-    }
-   ]
-  }
- },
- {
   "id": "20261030-072521",
   "title": "AI News, Friday October 30",
   "desc": "Good morning Ryan, and happy Friday, October thirtieth! It's Brian, and this is your AI News Station. We've got the first real hands-on verdicts on Apple's touchscreen MacBook Pro, an open-weights video model from Pika that hands you separate audio stems, a new sound effects model from ElevenLabs, a fresh way to bend Claude Code to your will, a soap opera archive being recut into micro-dramas with AI, a hybrid live-action and AI feature starting its shoot in Mumbai, a ninety-minute AI feature in Korean cinemas, new AI dubbing protections for voice actors, and a rethink of how OpenAI wants its ",
@@ -842,6 +784,69 @@
      "title": "Quick hits",
      "url": "https://kiavisa.no/daglig-ki/",
      "line": "Danish bill on public-sector AI use of personal data (first reading Dec 3); Reservoir expands lawsuits against Suno and Anthropic"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261118-072043",
+  "title": "AI News, Wednesday November 18",
+  "desc": "Good morning, Ryan! It's Wednesday, November eighteenth, and this is your AI News Station. I'm Brian, and I'll keep you company for the next ten minutes or so. Today is a big one for Final Cut Pro, because version thirteen has arrived with the whole MotionVFX library built in. We've also got Krea swapping people and places in existing footage, HeyGen's most lifelike avatars yet, new models from Vidu and Kling, Suno moving into music videos, OpenAI's new GPT six point two models, Nvidia's numbers, and Anthropic's IPO pricing tonight. Ten stories in all. Grab your coffee, and let's get into it.\n",
+  "len": 10691437,
+  "dur": 668,
+  "date": "Wed, 18 Nov 2026 07:21:24 +0100",
+  "notes": {
+   "intro": "Wednesday November 18: Final Cut Pro 13 with MotionVFX built in, Krea Video Swap, HeyGen Avatar 6, Vidu Q4 Preview, Kling Image 4 in native 8K, Suno Visuals, OpenAI's GPT-6.2 Astra and Sol, Nvidia's earnings beat, Anthropic's IPO pricing, plus TV and film quick hits.",
+   "stories": [
+    {
+     "title": "Final Cut Pro 13 First Look \u2013 The MotionVFX Library Is Why I Am Subscribing to Apple Creator Studio",
+     "url": "https://www.cined.com/final-cut-pro-13-first-look-the-motionvfx-library-is-why-i-am-subscribing-to-apple-creator-studio/",
+     "line": "MotionVFX tab and seven plug-ins, Content Hub stock video, Natural Motion Blur, Disconnect Clips; see also [MacRumors](https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/) and the [Apple outage](https://www.nbcnews.com/business/corporations/apple-outages-working-get-systems-back-online-rcna609861) that delayed release"
+    },
+    {
+     "title": "Krea Launches Video Swap to Replace People, Products and Backgrounds",
+     "url": "https://www.vp-land.com/stories/krea-launches-video-swap-to-replace-people-products-and-backgrounds-while-keeping-a-clips",
+     "line": "Up to four references, keeps motion and sound; Standard (Seedance 2.5), Lite (Wan) and Recast (MiniMax)"
+    },
+    {
+     "title": "HeyGen Introduces Avatar 6",
+     "url": "https://businessnewsthisweek.com/technology/heygen-introduces-avatar-6-an-audio-driven-context-aware-ai-model-that-alleviates-repetitive-or-unnatural-motion-in-ai-generated-video/",
+     "line": "Script-aware gestures, 30 s context, native 2K, live ID verification and consent"
+    },
+    {
+     "title": "Vidu Q4 Preview Released: Supports 15 Reference Images",
+     "url": "https://www.gmt8press.com/flash/detail/1548663",
+     "line": "15 image and 3 audio references, 2K/4K, launch price from 0.09 yuan per second"
+    },
+    {
+     "title": "Kuaishou launches Kling Image 4 with native 8K output",
+     "url": "https://technode.global/2026/11/18/kuaishou-launches-kling-image-4-native-8k/",
+     "line": "Consistent sets of up to 10 images, 2,000-character prompts; no independent benchmarks"
+    },
+    {
+     "title": "Introducing Visuals | Suno",
+     "url": "https://suno.com/blog/introducing-visuals",
+     "line": "15-second lyric-synced clips from your songs, separate credits, likeness filters and watermarks"
+    },
+    {
+     "title": "Introducing GPT-6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "line": "Astra $8/$40 per million tokens, 20% cheaper than GPT-6 Astra; Sol close to Astra on coding at ~1/5 the cost"
+    },
+    {
+     "title": "Nvidia earnings beat, but analysts question who and what comes next",
+     "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+     "line": "$115.84B revenue vs $109.1B expected, $130B guidance, board won't reinstate Huang"
+    },
+    {
+     "title": "Anthropic likely to price IPO above the current range of $70 to $78",
+     "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+     "line": "Pricing Nov 18, trading Nov 19 as ANT; ~$1.4T valuation at the range ([IPO guide](https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html))"
+    },
+    {
+     "title": "Quick hits: DramaWave writers join the WGA, Will Packer's June",
+     "url": "https://news.shorstory.com/en/articles/daily-2026-11-18/",
+     "line": "Plus [China Ruyi and Tencent's MetaShot film AI workflow](https://sloptvnews.com/china-ruyi-tencent-metashot-ai-film-workflow/) and [ElevenLabs' ElevenAI note-taker preview](https://theaiinsider.tech/2026/11/17/elevenlabs-enters-ai-note-taking-and-dictation-race-with-elevenai/)"
     }
    ]
   }
