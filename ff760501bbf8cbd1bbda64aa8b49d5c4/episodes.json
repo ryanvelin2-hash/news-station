@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261030-072521",
-  "title": "AI News, Friday October 30",
-  "desc": "Good morning Ryan, and happy Friday, October thirtieth! It's Brian, and this is your AI News Station. We've got the first real hands-on verdicts on Apple's touchscreen MacBook Pro, an open-weights video model from Pika that hands you separate audio stems, a new sound effects model from ElevenLabs, a fresh way to bend Claude Code to your will, a soap opera archive being recut into micro-dramas with AI, a hybrid live-action and AI feature starting its shoot in Mumbai, a ninety-minute AI feature in Korean cinemas, new AI dubbing protections for voice actors, and a rethink of how OpenAI wants its ",
-  "len": 10747862,
-  "dur": 671,
-  "date": "Fri, 30 Oct 2026 07:26:02 +0100",
-  "notes": {
-   "intro": "Friday October 30: first hands-on verdicts on Apple's touchscreen MacBook Pro, Pika's open-weights H3 Flex with five audio stems, ElevenLabs SFX v3, Claude Code mods, Fremantle's AI micro-drama recut of Neighbours, hybrid live-action/AI feature Beta Builder starting its shoot, Korea's 90-minute AI feature Steelay, SAG-AFTRA's AI dubbing consent deal, and OpenAI's rewritten Model Spec.",
-   "stories": [
-    {
-     "title": "Hands-on with Apple's touchscreen MacBook Pro",
-     "url": "https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on",
-     "line": "taps fall back to clicks, magnified controls, no Pencil, $400 premium; third-party touch apps incl. DaVinci Resolve arrive \"later this year\" while Final Cut Pro gets Apple's own touch controls ([Mac Observer](https://www.macobserver.com/news/macbook-pro-touch-apps-list/), [Ars Technica](https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/))"
-    },
-    {
-     "title": "Pika launches Pika H3 Flex",
-     "url": "https://finance.yahoo.com/technology/ai/articles/pika-launches-pika-h3-flex-184000848.html",
-     "line": "open weights, post-trained on MiniMax H3, six steps, 768p draft to 4K finish, 12 references, up to 5 audio stems (dialogue, score, SFX, Foley, ambience); Pika app from Nov 2"
-    },
-    {
-     "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
-     "url": "https://elevenlabs.io/blog/sound-effects-v3",
-     "line": "better multi-sound prompts, music and vocals, fewer artifacts; available now"
-    },
-    {
-     "title": "Claude Code mods",
-     "url": "https://claudenews.com/news/customize-claude-code-with-mods",
-     "line": "TypeScript functions that react to prompts, tool calls, permissions and UI events; not sandboxed, install only from trusted sources"
-    },
-    {
-     "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
-     "url": "https://www.bbc.com/news/articles/cj1dw9znd1q1o",
-     "line": "Fremantle and RoseBerry Media use AI to scan 9,300+ episodes for vertical micro-dramas starting with Margot Robbie; original footage only, human editor approves; cast and crew raise consent concerns"
-    },
-    {
-     "title": "Beta Builder, debut hybrid AI feature from Abundantia AiOn and InVideo",
-     "url": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
-     "line": "live-action shoot plus AI-driven production began Oct 29 in Mumbai; first of five films backed by \u20b9100 crore (~$10.5M)"
-    },
-    {
-     "title": "'Steelay' opens new era for AI feature films",
-     "url": "https://www.koreatimes.co.kr/entertainment/films/20261029/steelay-opens-new-era-for-ai-feature-films",
-     "line": "90-minute Korean AI feature, under ~$750K in six months; shots picked from ~13,000 discarded options, human dubbing, mix and DI"
-    },
-    {
-     "title": "SAG-AFTRA ratifies TV animation contracts: AI dub consent",
-     "url": "https://www.voiceoverherald.com/sag-aftra-ratifies-tv-animation-contracts-ai-replica-dubbing-consent/",
-     "line": "~95% yes; specific consent needed for foreign-language replica dubs; plus unions' [amicus brief against blanket fair use](https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/) in the OpenAI case"
-    },
-    {
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "url": "https://openai.com/index/updated-model-spec",
-     "line": "five core values, new guidance on context, agency and side effects; most style guidance retired; the model is now called \"GPT\""
-    }
-   ]
-  }
- },
- {
   "id": "20261102-072355",
   "title": "AI News, Monday November 2",
   "desc": "Good morning Ryan, and happy Monday, November second! It's Brian, and this is your AI News Station. A weekend's worth of news to get through today: Denmark's public broadcaster opens an AI lab, and a new AI lab opens its doors in Aarhus this very afternoon. Runway lets you swap the actor in a shot while keeping the performance, Kling four point oh shows up everywhere at once, VEED launches lip-synced dubbing as an API, Tencent open-sources a small editing agent that cuts long-form video, and a new image-to-video model goes for half a cent a second. Then Claude's plans get renamed and loosened,",
@@ -847,6 +789,69 @@
      "title": "Quick hits: DramaWave writers join the WGA, Will Packer's June",
      "url": "https://news.shorstory.com/en/articles/daily-2026-11-18/",
      "line": "Plus [China Ruyi and Tencent's MetaShot film AI workflow](https://sloptvnews.com/china-ruyi-tencent-metashot-ai-film-workflow/) and [ElevenLabs' ElevenAI note-taker preview](https://theaiinsider.tech/2026/11/17/elevenlabs-enters-ai-note-taking-and-dictation-race-with-elevenai/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261119-072131",
+  "title": "AI News, Thursday November 19",
+  "desc": "Good morning, Ryan! It's Thursday, November nineteenth, and this is your AI News Station. I'm Sarah, and I'll be with you for the next ten minutes or so. Final Cut Pro thirteen is finally out, and under the hood there's something made for tool builders like you: a command-line tool and a new FCPXML version. We've also got Pika directing AI actors live, Google's Genie 4 world model opening up, Microsoft's new image models, a surprise video model from Apple, Higgsfield going deeper into Claude, Anthropic's record IPO, Gemini 4 Neon, and a Nordic-heavy round of TV and film news. Ten stories in al",
+  "len": 10721113,
+  "dur": 670,
+  "date": "Thu, 19 Nov 2026 07:21:59 +0100",
+  "notes": {
+   "intro": "Thursday November 19: Final Cut Pro 13 ships with the fcptool CLI and FCPXML 1.15, FCP Cafe on growing files and SIFTfcp, Pika Enact, Genie 4 in Project Genie, Microsoft MAI Image 2.7, Apple FastFrames, Higgsfield MCP 2.0 and Midjourney moodboard restyles, Anthropic's record IPO, Gemini 4 Neon, plus Nordic TV and film quick hits.",
+   "stories": [
+    {
+     "title": "Final Cut Pro 13 is out: fcptool CLI and FCPXML 1.15",
+     "url": "https://fcp.cafe/",
+     "line": "Hidden command-line tool for libraries, events and FCPXML import/export with JSON output; FCPXML 1.15 is the new export default; early bug reports, back up first"
+    },
+    {
+     "title": "FCP Cafe: HyperDeck growing files and SIFTfcp",
+     "url": "https://fcp.cafe/",
+     "line": "FCP can't edit Blackmagic HyperDeck growing files that Resolve can (feedback FB25636418); SIFTfcp builds selects and text-based paper edits locally"
+    },
+    {
+     "title": "Research Preview: Pika Enact",
+     "url": "https://pika.art/blog/pika-enact",
+     "line": "Live staging by mouse, talk-to-the-actors direction and live camera control on Pika H3 Flex; enterprise requests only"
+    },
+    {
+     "title": "Genie 4 is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+     "line": "Mid-session prompts and real-time audio for AI Ultra subscribers; Genie 3 runs now last up to 3 minutes; see also [The Next Web](https://thenextweb.com/news/google-genie-4-project-genie-ai-ultra-world-model)"
+    },
+    {
+     "title": "MAI Image 2.7: Frontier quality at a fraction of the cost",
+     "url": "https://microsoft.ai/news/introducing-mai-image-2-7/",
+     "line": "#1 on Artificial Analysis image editing, ~$35 vs ~$10 per 1,000 images for Flash, new Canvas workspace, transparent backgrounds"
+    },
+    {
+     "title": "Apple releases FastFrames-L video model for research use",
+     "url": "https://ai.info/news/apple-fastframes-l-text-to-video-research",
+     "line": "14B and 1.3B two-step video models at 480p, research-only license, Linux and Nvidia"
+    },
+    {
+     "title": "Higgsfield MCP 2.0 lands in Claude",
+     "url": "https://thereelstack.com/lab/higgsfield-mcp-2-0-claude-hyperframes-avatar-6-studio-0-9-69",
+     "line": "Pro tool integrations, multi-agent workflows and quality control, no changelog yet; plus [Midjourney moodboard restyles with no prompt](https://thegenerated.com/notes/midjourney-now-restyles-a-picture-from-a-moodboard-20261118)"
+    },
+    {
+     "title": "Anthropic IPO raises over $81 billion in largest offering on record",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+     "line": "Priced at $83, ~980M shares, ~$1.5T fully diluted; trading today on Nasdaq as ANT ([Anthropic's release](https://www.anthropic.com/news/anthropic-prices-initial-public-offering))"
+    },
+    {
+     "title": "Introducing Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+     "line": "$3/$15 per million tokens, 1M context, #1 on the Artificial Analysis Coding Agent Index"
+    },
+    {
+     "title": "Quick hits: Lilla sp\u00f6ket Laban made with AI animation",
+     "url": "https://nyheter24.se/nyheter/teknik/1531806-sa-har-ai-hjalpt-till-att-skapa-nya-laban-filmen",
+     "line": "Plus [Oslo's AI in film conference with Nordisk Film's Julius](https://detnorskefilmakademiet.no/ny-ki-konferanse-19-november-2026/), [David Ayer joins ACME Media](https://www.prnewswire.com/news-releases/david-ayer-joins-acme-media-as-partner-302944123.html) and [Elton John backs Not AI's To Take](https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright)"
     }
    ]
   }
