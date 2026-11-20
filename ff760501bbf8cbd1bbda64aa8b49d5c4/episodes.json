@@ -1,68 +1,5 @@
 [
  {
-  "id": "20261102-072355",
-  "title": "AI News, Monday November 2",
-  "desc": "Good morning Ryan, and happy Monday, November second! It's Brian, and this is your AI News Station. A weekend's worth of news to get through today: Denmark's public broadcaster opens an AI lab, and a new AI lab opens its doors in Aarhus this very afternoon. Runway lets you swap the actor in a shot while keeping the performance, Kling four point oh shows up everywhere at once, VEED launches lip-synced dubbing as an API, Tencent open-sources a small editing agent that cuts long-form video, and a new image-to-video model goes for half a cent a second. Then Claude's plans get renamed and loosened,",
-  "len": 11269056,
-  "dur": 704,
-  "date": "Mon, 02 Nov 2026 07:24:38 +0100",
-  "notes": {
-   "intro": "Monday November 2: DR's new AI Lab and VIA's AI Frontier Lab opening in Aarhus today, Runway Character Swap, Kling 4.0 spreading to five more platforms, VEED's lip-synced Dubbing API, Tencent's open-source WeVisCut editing agent, TBC's half-cent-a-second mischief 1, Claude's Max/Ultra plan changes, a shared AI-training opt-out for robots.txt, Computer Use GA in Gemini plus OpenAI Agents API updates, and OpenAI's smaller fundraise.",
-   "stories": [
-    {
-     "title": "DR opretter AI-laboratorium og s\u00e6tter egen mand i spidsen",
-     "url": "https://www.altinget.dk/artikel/dr-opretter-ai-laboratorium-og-saetter-egen-mand-i-spidsen",
-     "line": "Lasse Funder Andersen leads DR's new AI Lab from Nov 1; plus [VIA's AI Frontier Lab opens today 13:00 in Aarhus](https://filmbyaarhus.dk/aarhus-series-film-festival/program/branche/aabning-af-ai-frontier-lab) with Sally Trier and Bacon Lab's Mads Damsbo on the Jos\u00e9 Gonz\u00e1lez video and Bacon's AI code of conduct"
-    },
-    {
-     "title": "Runway App Studio adds Character Swap",
-     "url": "https://creatorstoolbox.com/blog/runway-app-studio-character-swap",
-     "line": "replace characters or location while keeping the original motion, then transfer or swap audio; paid plans"
-    },
-    {
-     "title": "Kling 4.0 lands on 5+ platforms in one week",
-     "url": "https://lumienai.com/news/kling-4-video-ai-platform-expansion-weekly-roundup",
-     "line": "30-second clips, 15 references, 10 keyframes; Genspark 50% off until Nov 4; also Runway Ads and Krea Ad Studio"
-    },
-    {
-     "title": "Introducing VEED's Dubbing API",
-     "url": "https://www.veed.io/newsroom/dubbing-api-video-that-travels",
-     "line": "translate, clone each voice, lip-sync; Standard $0.11/s (100 languages), Pro $0.18/s (multi-speaker, accents, background audio); up to 10 min; fal in early November"
-    },
-    {
-     "title": "Tencent open-sources 9B video agent WeVisCut",
-     "url": "https://aiweekly.co/alerts/tencent-open-sources-9b-video-agent-weviscut-rivals-opus-5",
-     "line": "narration script to multi-minute edit with 12 tools; 90.5 vs Opus 5's 89.9 on the authors' own benchmark; Apache 2.0 with an editable timeline"
-    },
-    {
-     "title": "TBC launches mischief 1",
-     "url": "https://www.tbc.co/press-releases/neuron-derived-ai-video-model",
-     "line": "image-to-video at $0.005 per second on fal and OpenRouter; 5x faster than its base model (company claim)"
-    },
-    {
-     "title": "Claude Max 20x becomes Ultra, no 5-hour limit",
-     "url": "https://aisidaily.com/daily/ai-daily-2026-10-31/",
-     "line": "Max stays $100, Ultra $200, weekly limits unchanged; plus [Claude Code 2.1.316's subagent effort setting](https://jls42.org/en/news/ia-actualites-31-oct-2026)"
-    },
-    {
-     "title": "Google joins OpenAI and Anthropic in new scraping controls",
-     "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
-     "line": "one robots.txt AI-training user agent honoured by Google, Anthropic, OpenAI and Microsoft; rollout through early 2027"
-    },
-    {
-     "title": "Computer Use GA in the Gemini API; OpenAI Agents API adds Auto Review",
-     "url": "https://jls42.org/en/news/ia-actualites-31-oct-2026",
-     "line": "screen-driving agents with prompt-injection checks; command review, background compaction, time awareness"
-    },
-    {
-     "title": "FT: OpenAI cuts funding target by $10B",
-     "url": "https://aisidaily.com/daily/ai-daily-2026-10-31/",
-     "line": "to about $20B at a $1.25T valuation target (media report); plus Google's space TPU sends back a haiku"
-    }
-   ]
-  }
- },
- {
   "id": "20261103-072729",
   "title": "AI News, Tuesday November 3",
   "desc": "Good morning Ryan, and happy Tuesday, November third! It's Sarah, and this is your AI News Station. Today's show leans hard into the stuff you actually do for a living. A major Chinese streamer has opened a studio that shoots live actors and finishes the world in AI. Kling's API is finally open, and its maker just raised almost three billion dollars. The leaderboard everyone quotes for image-to-video has been rebuilt, with a licensing catch for Europe. Runway now plugs straight into Claude Code, Higgsfield crowned its million-dollar film festival, and an AI-voiced song is at number two in Kore",
@@ -852,6 +789,64 @@
      "title": "Quick hits: Lilla sp\u00f6ket Laban made with AI animation",
      "url": "https://nyheter24.se/nyheter/teknik/1531806-sa-har-ai-hjalpt-till-att-skapa-nya-laban-filmen",
      "line": "Plus [Oslo's AI in film conference with Nordisk Film's Julius](https://detnorskefilmakademiet.no/ny-ki-konferanse-19-november-2026/), [David Ayer joins ACME Media](https://www.prnewswire.com/news-releases/david-ayer-joins-acme-media-as-partner-302944123.html) and [Elton John backs Not AI's To Take](https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261120-072203",
+  "title": "AI News, Friday November 20",
+  "desc": "Good morning, Ryan, and happy Friday! It's Friday, November twentieth, and this is your AI News Station. I'm Brian, and I'll keep you company for the next ten minutes or so. Today, the Final Cut world starts building on fcptool, Apple puts a number on its AI image allowance, and a David Fincher film is caught in an AI storm. We've also got Kling going 4K and HDR, Topaz running locally on your Mac, AI video agents moving into Claude, an EU deadline that lands in under two weeks, Apple's own computer agent, and Anthropic's first day on the stock market. Nine stories in all. Grab your coffee, and",
+  "len": 10459052,
+  "dur": 653,
+  "date": "Fri, 20 Nov 2026 07:22:45 +0100",
+  "notes": {
+   "intro": "Friday November 20: Doza Assist is first to use Final Cut Pro 13's fcptool, Apple's Creator Studio AI allowance, the Cliff Booth AI backlash, Kling 4.0 goes 4K HDR, Topaz Wonder 4 runs locally, Synthesia and Motion bring video agents to Claude, the EU's December 2 AI-marking deadline, Apple's computer-use agent, plus Anthropic's first trading day and more lab news.",
+   "stories": [
+    {
+     "title": "Doza Assist 1.2.5: import from Final Cut libraries and send from Claude",
+     "url": "https://doza.ai/changelog/",
+     "line": "First product to support fcptool, per [FCP Cafe](https://fcp.cafe/); no Export XML step, privacy switch per project; also ScriptStar and Pro Video Formats 3.2"
+    },
+    {
+     "title": "About the intelligence features in Apple Creator Studio",
+     "url": "https://support.apple.com/en-us/127888",
+     "line": "Generate Image uses Google Gemini models, ~50 images/month shared across the suite; $49.99 usage packs (not in Denmark) per [iDrop News](https://www.idropnews.com/news/final-cut-pro-13-motionvfx-apple-fall-creator-studio-update/271318/)"
+    },
+    {
+     "title": "Cliff Booth movie's alleged AI usage draws fan backlash",
+     "url": "https://www.comingsoon.net/movies/news/2227917-brad-pitt-mis-adventures-cliff-booth-movie-alleged-ai-usage-fan-backlash",
+     "line": "Unconfirmed generative AI in Fincher's film; IMAX Nov 25, Netflix Dec 23; [IndieWire review](https://www.indiewire.com/criticism/movies/further-misadventures-of-cliff-booth-movie-review-netflix-1235229234/)"
+    },
+    {
+     "title": "Kling API updates: Kling 4.0 adds 4K and HDR output",
+     "url": "https://kling.ai/document-api/updates/api",
+     "line": "4K for text-, image- and omni-video, HDR at 1080p/4K for an extra per-second fee; 4:3 and 3:4 added Nov 14"
+    },
+    {
+     "title": "Topaz Gigapixel v1.5.1 - Wonder 4 local & cloud",
+     "url": "https://community.topazlabs.com/t/topaz-gigapixel-v1-5-1-wonder-4-local-cloud/105900",
+     "line": "One-pass upscale and restoration now runs locally on Apple Silicon with 16GB RAM"
+    },
+    {
+     "title": "Synthesia brings agentic video directly into Claude",
+     "url": "https://www.synthesia.io/post/synthesia-connector-claude",
+     "line": "Syren agent on Opus 5.5 writes scenes as code; plus [Motion, the General Video Agent](https://motion.so/gva) exporting to Premiere, After Effects and Resolve (not FCP)"
+    },
+    {
+     "title": "Transparency obligations under Article 50 of the AI Act",
+     "url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+     "line": "Machine-readable marking required from Dec 2 for systems on the market before Aug 2, 2026; fines up to EUR 15M or 3%"
+    },
+    {
+     "title": "Apple is building an AI agent that can use apps and code",
+     "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
+     "line": "Job listings spotted by Bloomberg describe general-purpose computer-use agents across Siri and Foundation Models"
+    },
+    {
+     "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap",
+     "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+     "line": "Opened $111.50, closed $97.17 (+17%); plus [GPT-Live-1.1 in the API](https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537) and DeepMind's [What comes after AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)"
     }
    ]
   }
