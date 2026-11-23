@@ -1,68 +1,5 @@
 [
  {
-  "id": "20261103-072729",
-  "title": "AI News, Tuesday November 3",
-  "desc": "Good morning Ryan, and happy Tuesday, November third! It's Sarah, and this is your AI News Station. Today's show leans hard into the stuff you actually do for a living. A major Chinese streamer has opened a studio that shoots live actors and finishes the world in AI. Kling's API is finally open, and its maker just raised almost three billion dollars. The leaderboard everyone quotes for image-to-video has been rebuilt, with a licensing catch for Europe. Runway now plugs straight into Claude Code, Higgsfield crowned its million-dollar film festival, and an AI-voiced song is at number two in Kore",
-  "len": 10877848,
-  "dur": 679,
-  "date": "Tue, 03 Nov 2026 07:27:56 +0100",
-  "notes": {
-   "intro": "Tuesday November 3: iQIYI's hybrid AI film studio, Kling's raise and live API, a rebuilt video leaderboard, Runway in Claude Code, Higgsfield's festival, an AI hit in Korea, DR on AI and Danish film, Claude message threads, Anthropic's S-1 numbers and the GDPx benchmark.",
-   "stories": [
-    {
-     "title": "iQIYI launches China's first AI Film Studio in Shanghai",
-     "url": "https://www.prnewswire.com/apac/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925887.html",
-     "line": "Live actors on set, footage auto-synced to NadouPro with ~30 models (Seedance 2.5, Kling 4.0); \"Cop in Trouble\" filming since Oct 28"
-    },
-    {
-     "title": "Kling raises ~$2.98B; Kling 4.0 API now live",
-     "url": "https://neurocartel.com/en/blog/ai-video-news-november-2",
-     "line": "Second round in six months; API sold in prepaid 180-day packages from $500 ([RCTV pricing breakdown](https://rctv.com/posts/ai-video-weekly-roundup-2026-11-02/))"
-    },
-    {
-     "title": "Artificial Analysis rebuilds its image-to-video boards",
-     "url": "https://rctv.com/posts/ai-video-weekly-roundup-2026-11-02/",
-     "line": "Seedance 2.5 and Utopai X tied with audio; the MiniMax H3 Community License excludes the EU, UK, South Korea and US"
-    },
-    {
-     "title": "Runway Dev plugins for Claude Code, Codex and Cursor",
-     "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
-     "line": "One install connects your coding agent to Runway's API via MCP; `/plugin install runway-api@claude-plugins-official`"
-    },
-    {
-     "title": "Higgsfield changelog: Film Festival winners, Intone, Mangaka",
-     "url": "https://www.higgsfield.company/creator-hub/changelog",
-     "line": "$1M festival judged by Catmull, Papamichael, Anderson and Proyas; lip-synced talking characters; comics from a script"
-    },
-    {
-     "title": "AI-made song hits No. 2 on Melon",
-     "url": "https://neurocartel.com/en/blog/ai-video-news-november-2",
-     "line": "Meomureu's AI melody and vocals with human lyrics and production; Korea's copyright society drops a proposal on registering the human part"
-    },
-    {
-     "title": "DR: Det danske filmmirakel, episode 6 \"Efter miraklet\"",
-     "url": "https://www.dr.dk/drtv/episode/det-danske-filmmirakel_-efter-miraklet_627902",
-     "line": "29 minutes on Hollywood, the new generation, Dogme 25 and whether to fear or welcome AI"
-    },
-    {
-     "title": "Anthropic: message threads for long-running agents",
-     "url": "https://claude.com/resources/articles/message-threads",
-     "line": "Send only new messages; ~35% faster time to first token at 500k\u20131M tokens, on by default for most Claude Code users"
-    },
-    {
-     "title": "Anthropic's amended S-1, OpenAI Grid Protectors and TPU report",
-     "url": "https://sflood.com/en/daily/ai-2026-11-03",
-     "line": "$17B Q3 revenue, ~$895B compute commitments, $3.5B Japan offering; OpenAI's 1,000 MW flexible demand in Georgia ([DailyCited roundup](https://dailycited.com/d/2026-11-03/))"
-    },
-    {
-     "title": "SemiAnalysis GDPx: Opus 5.5 leads at just 12%",
-     "url": "https://www.gadgets360.com/ai/news/google-gemini-4-carbon-frontier-ai-model-agentic-capabilities-anthropic-claude-opus-5-5-semianalysis-benchmark-results-12274852",
-     "line": "Gemini 4 Carbon second at 10.9% and a third of the cost per task; GPT-6 Astra third at 9.6%"
-    }
-   ]
-  }
- },
- {
   "id": "20261104-071747",
   "title": "AI News, Wednesday November 4",
   "desc": "Good morning Ryan, and happy Wednesday, November the fourth. It's Brian here, your host on the AI News Station,. We've got ten stories for you today, and there's a real theme running through them: the big studios are now openly testing generative AI inside their workflows, and the tools are moving out of the browser tab and into the pipeline. Let's get into it.\n\nStory number one. Disney, the company that has spent the last year suing AI firms, is now testing AI-made lyric videos. The Los Angeles Times reports that Disney has a commercial deal with OpenArt, a Bay Area startup, starting with \"Go",
@@ -847,6 +784,69 @@
      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap",
      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
      "line": "Opened $111.50, closed $97.17 (+17%); plus [GPT-Live-1.1 in the API](https://community.openai.com/t/gpt-live-1-1-has-arrived-in-the-api/1418537) and DeepMind's [What comes after AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261123-072546",
+  "title": "AI News, Monday November 23",
+  "desc": "Good morning, Ryan, and happy Monday! It's Monday, November twenty-third, and this is your AI News Station. I'm Brian, and I'll be with you for the next ten minutes or so. While you were enjoying the weekend, the Final Cut toolmakers kept shipping, an Anthropic mathematician says Claude helped prove the Riemann hypothesis, and Google's Gemini learned to drive your Mac. We've also got a price check on motion transfer tools, a Meta research model that invents camera angles, a fully local AI film studio, ElevenLabs remaking video ads, a startup licensing actors' faces, and some news from Denmark ",
+  "len": 10331993,
+  "dur": 645,
+  "date": "Mon, 23 Nov 2026 07:26:28 +0100",
+  "notes": {
+   "intro": "Monday November 23: The Final Cut toolmakers ship for FCP 13 and FCPXML 1.15, Claude helps prove the Riemann hypothesis, Gemini computer use on Mac as macOS 27.3 tightens permissions, motion transfer priced per second, Meta and Oxford's AVM camera model, the fully local Dreamverse Harness, ElevenLabs Ads Engine for video, Shortical's face licensing, the Danish Film Institute on young audiences and AI, plus quick hits.",
+   "stories": [
+    {
+     "title": "FCP Cafe: Transfer Toolbox 2.1, Capacitor 1.3, Marker Data 2.2 and CommandPost v3",
+     "url": "https://fcp.cafe/",
+     "line": "FCP 13 and FCPXML 1.15 support across the tools, Capacitor adds FCP7 XML; CommandPost v3 on TestFlight with iPhone, iPad and Vision Pro apps coming"
+    },
+    {
+     "title": "Two groups verify mathematician's claim that Claude helped prove mathematics problem",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "line": "Alp\u00f6ge's Lean proof certified by the Lean FRO and Mathlib Initiative; see [Scientific American](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/)"
+    },
+    {
+     "title": "Let Gemini tackle repetitive chores on your Mac",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+     "line": "Computer use in a background window, US English, AI Plus/Pro/Ultra; plus [macOS 27.3's new AI-agent permission controls](https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/)"
+    },
+    {
+     "title": "The 4 motion transfer tools ranked by price per second",
+     "url": "https://sloptvnews.com/motion-transfer-tools-cost-per-second-picks/",
+     "line": "Kling Motion Control $0.126/s, Genjutsu Light $0.147, Runway Aleph 2.0 $0.28, Genjutsu $0.345 at 720p"
+    },
+    {
+     "title": "Meta and Oxford's AVM generates camera angles never filmed",
+     "url": "https://sloptvnews.com/avm-camera-angle-never-filmed/",
+     "line": "Camera paths from photos or video with memory of earlier views; research only, no code or weights"
+    },
+    {
+     "title": "FastVideo Dreamverse Harness takes AI filmmaking fully local",
+     "url": "https://sloptvnews.com/fastvideo-dreamverse-harness-open-source-ai-filmmaking/",
+     "line": "MIT-licensed agent workspace on one DGX Spark, append-only history and versioned references"
+    },
+    {
+     "title": "ElevenLabs Ads Engine adds video ad variants and localization",
+     "url": "https://sloptvnews.com/elevenlabs-ads-engine-video-ad-variants-localization/",
+     "line": "New hooks with voice replica and lip-sync, Dubbing v2; alpha, Pro plan and up, no API"
+    },
+    {
+     "title": "Shortical licenses Aki Avni's face for an AI microdrama",
+     "url": "https://sloptvnews.com/shortical-aki-avni-face-licensing/",
+     "line": "\"Inevitable\" premiered with 24 episodes; \"License Your Face\" has no signed contracts yet"
+    },
+    {
+     "title": "Mennesker bag filmene betyder noget",
+     "url": "https://www.dfi.dk/nyheder/mennesker-bag-filmene-betyder-noget",
+     "line": "DFI report: 61 young Danes want to know if and where AI was used; plus [SVT on AI bloopers from Lidboholms g\u00e5rd](https://www.svt.se/nyheter/lokalt/smaland/nar-ai-sparar-ur-kolla-in-bloopers-fran-serien)"
+    },
+    {
+     "title": "Quick hits: Higgsfield Black Friday price cuts",
+     "url": "https://reelticker.com/changes",
+     "line": "Ultra $79/month, down from $129; plus [African AI Film Festival brings 47 films to Hollywood](https://sloptvnews.com/african-ai-film-festival-hollywood-premiere-awards/)"
     }
    ]
   }
