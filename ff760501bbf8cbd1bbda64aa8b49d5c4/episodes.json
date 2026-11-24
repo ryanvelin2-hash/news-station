@@ -1,68 +1,5 @@
 [
  {
-  "id": "20261104-071747",
-  "title": "AI News, Wednesday November 4",
-  "desc": "Good morning Ryan, and happy Wednesday, November the fourth. It's Brian here, your host on the AI News Station,. We've got ten stories for you today, and there's a real theme running through them: the big studios are now openly testing generative AI inside their workflows, and the tools are moving out of the browser tab and into the pipeline. Let's get into it.\n\nStory number one. Disney, the company that has spent the last year suing AI firms, is now testing AI-made lyric videos. The Los Angeles Times reports that Disney has a commercial deal with OpenArt, a Bay Area startup, starting with \"Go",
-  "len": 10303153,
-  "dur": 643,
-  "date": "Wed, 04 Nov 2026 07:18:26 +0100",
-  "notes": {
-   "intro": "Wednesday November 4: Disney tests AI lyric videos with OpenArt, Promise's gray box hybrid demo at Disney, Weta FX's AI hub in Taiwan, Banijay hiring an AI Creative Technologist, Glue Production on DR P1, Synthesia in ChatGPT, ElevenLabs SFX v3 in the API, Pika H3 Flex near real time, Siri AI opens to developers, and the labs round-up.",
-   "stories": [
-    {
-     "title": "Disney tests AI lyric videos with OpenArt",
-     "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-03/disney-openart-ai-lyric-videos-hercules",
-     "line": "Starting with \"Go the Distance\"; concepts \"in hours rather than weeks\"; the whole Accelerator cohort is AI companies"
-    },
-    {
-     "title": "Promise shows artist-led hybrid production at Disney Demo Day",
-     "url": "https://www.promise.ai/post/promise-showcases-artist-led-ai-filmmaking-at-disney-demo-day",
-     "line": "One actor performance in a gray box turned into different cinematic worlds"
-    },
-    {
-     "title": "Weta FX and TAICCA plan an AI screen production hub in Taiwan",
-     "url": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
-     "line": "Investment, R&D and talent training; formal launch Nov 6 at TCCF in Taipei"
-    },
-    {
-     "title": "Banijay Group is hiring an AI Creative Technologist",
-     "url": "https://www.hollylist.com/gb/job/ai-creative-technologist-v3hQsbmSJkXt8pkgC",
-     "line": "London, hybrid; map AI experiments across labels, prototype tools and scale pilots group-wide"
-    },
-    {
-     "title": "DR P1 K-Live: \"Ja, AI kan lave gode film\"",
-     "url": "https://www.dr.dk/lyd/p1/k-live/k-live-2026/ja-ai-kan-lave-gode-film-11032601452",
-     "line": "Esther Sofie Hede of AI production company Glue Production; segment starts at 01:59"
-    },
-    {
-     "title": "Synthesia launches in ChatGPT",
-     "url": "https://www.synthesia.io/post/synthesia-launches-in-chatgpt",
-     "line": "Build and revise avatar videos from docs, decks and chats; \"make it in Studio\" for exact scripts"
-    },
-    {
-     "title": "ElevenLabs SFX v3 now in the API",
-     "url": "https://neurocartel.com/en/blog/ai-video-news-november-3-2026",
-     "line": "`eleven_text_to_sound_v3`, ordered events and exact durations; looping only on v2"
-    },
-    {
-     "title": "Pika H3 Flex runs 7x faster in FastVideo",
-     "url": "https://haoailab.com/blogs/pika-h3-flex/",
-     "line": "5-second 480p clip in 5.8 s on one GB200 in 4-bit; open 2K regeneration"
-    },
-    {
-     "title": "Apple opens Siri AI to developers, warns about agents",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/",
-     "line": "App Intents in the iOS 27.3 betas; annual filing flags agents exceeding permissions"
-    },
-    {
-     "title": "Anthropic's S-1 warning, FlashProve, OpenAI's Pando and Cathedral deal",
-     "url": "https://e-acc.ai/daily/2026-11-04",
-     "line": "~$17B Q3 revenue and an RSP threshold warning; Pando cuts push latency ~80% ([The Neuron](https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/))"
-    }
-   ]
-  }
- },
- {
   "id": "20261105-072304",
   "title": "AI News, Thursday November 5",
   "desc": "Good morning Ryan, and happy Thursday, November the fifth. It's Sarah here, your host on the AI News Station. We've got ten stories for you this morning, and if there's one thread running through them, it's this: the generators are getting good enough and cheap enough that the real action is moving into the edit, the pipeline and the business deals around them. Grab your coffee and let's get into it.\n\nStory number one. Kling has made Kling 4.0 Flash fully open to users worldwide. According to AIbase, Flash is the version built for high-volume, cost-effective creation, and it's available on Kli",
@@ -847,6 +784,69 @@
      "title": "Quick hits: Higgsfield Black Friday price cuts",
      "url": "https://reelticker.com/changes",
      "line": "Ultra $79/month, down from $129; plus [African AI Film Festival brings 47 films to Hollywood](https://sloptvnews.com/african-ai-film-festival-hollywood-premiere-awards/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261124-072404",
+  "title": "AI News, Tuesday November 24",
+  "desc": "Good morning, Ryan, and happy Tuesday! It's Tuesday, November twenty-fourth, and this is your AI News Station. I'm Sarah, and I'll be keeping you company for the next ten minutes or so. Today, Canva starts making videos inside ChatGPT and Claude, Higgsfield lets Claude rent you a graphics card, a ninety-minute AI feature film goes out on Chinese satellite television, and a French director admits to a deepfake kiss. We've also got Tesla's real-time AI video, a new ChatGPT model, Google DeepMind's agents doing quantum maths, and Kate Bush standing up for copyright. Ten stories in all. Let's get ",
+  "len": 7116112,
+  "dur": 592,
+  "date": "Tue, 24 Nov 2026 07:24:49 +0100",
+  "notes": {
+   "intro": "Tuesday November 24: Canva makes Seedance-powered video inside ChatGPT and Claude, Higgsfield GPU Harness rents GPUs from chat, Shenzhen's 90-minute AI feature airs on satellite TV, RunningHub's AI feature contest, Arthur Harari's deepfake kiss, Tesla's real-time AI video claim, GPT-6.2 Sol in ChatGPT, DeepMind's verified quantum agents, Kate Bush and 7,000 artists on Australian copyright, plus Jensen Huang's return and the Grok deepfake suits.",
+   "stories": [
+    {
+     "title": "Canva adds on-brand AI video generation inside ChatGPT and Claude",
+     "url": "https://sloptvnews.com/canva-mcp-video-generation-chatgpt-claude/",
+     "line": "Seedance 2.5 plus templates, approve a timed plan before rendering, finish in Canva's editor; Pro plan and up, select markets"
+    },
+    {
+     "title": "Higgsfield GPU Harness rents cloud GPUs from inside Claude",
+     "url": "https://sloptvnews.com/higgsfield-gpu-harness-rent-gpus-claude-chatgpt/",
+     "line": "/gpu in chat, L40S at 71 credits/hour up to B300 at 197, per-second billing, Blender preinstalled; Resolve, Nuke, Houdini via agent setup"
+    },
+    {
+     "title": "Shenzhen's first AI feature film airs on satellite TV",
+     "url": "https://sloptvnews.com/shenzhen-wonderful-connection-ai-feature-film-satellite-tv/",
+     "line": "\"Wonderful Connection\", ~90 minutes, no live-action shoot, on Shenzhen TV, Hunan TV and Mango TV Nov 23"
+    },
+    {
+     "title": "RunningHub's AI film contest drew 1,500 entries and 20+ features",
+     "url": "https://sloptvnews.com/runninghub-aigc-feature-film-competition-1500-entries/",
+     "line": "CNY 1M grand prize to \"Empty City, Another Plan\", made in about a month by 10+ people, now in theatrical development"
+    },
+    {
+     "title": "Arthur Harari says he never used AI. His film has a deepfake.",
+     "url": "https://sloptvnews.com/harari-deepfake-lea-seydoux-the-unknown-marrakech/",
+     "line": "Deepfake tool used for L\u00e9a Seydoux kissing L\u00e9a Seydoux in The Unknown; he calls AI in writing a slippery slope"
+    },
+    {
+     "title": "Musk says real-time AI video runs on half a Tesla AI4 chip",
+     "url": "https://sloptvnews.com/musk-real-time-ai-video-generation-ai4-chip/",
+     "line": "FSD \"Reality View\" without a game engine; Tim Sweeney says a world model \"runs circles around engines\"; unverified claim"
+    },
+    {
+     "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+     "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+     "line": "Plus, Pro, Business and Enterprise; better fine detail in photos, safety compliance 91-94% vs 77-80% for GPT-6"
+    },
+    {
+     "title": "Finding faster quantum algorithms with agents and formal verification",
+     "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+     "line": "Gemini 4 agent teams prove circuits in Lean: ~12x cheaper fusion, 8x photochemistry, 290x arithmetic; library open-sourced"
+    },
+    {
+     "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI 'theft'",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+     "line": "7,000+ creatives back Ed Newton-Rex's statement as a 400-page parliamentary report calls for copyright reform"
+    },
+    {
+     "title": "Quick hits: Jensen Huang reinstated as Nvidia CEO",
+     "url": "https://www.macrumors.com/2026/11/23/jensen-huang-reinstated-as-nvidia-ceo/",
+     "line": "Unanimous board vote after his Nov 12 resignation; plus [Oregon and Virginia sue SpaceX over Grok's sexualized deepfakes](https://sloptvnews.com/oregon-virginia-sue-spacex-grok-deepfake-images/)"
     }
    ]
   }
