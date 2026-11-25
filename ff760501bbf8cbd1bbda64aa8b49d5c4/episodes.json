@@ -1,68 +1,5 @@
 [
  {
-  "id": "20261105-072304",
-  "title": "AI News, Thursday November 5",
-  "desc": "Good morning Ryan, and happy Thursday, November the fifth. It's Sarah here, your host on the AI News Station. We've got ten stories for you this morning, and if there's one thread running through them, it's this: the generators are getting good enough and cheap enough that the real action is moving into the edit, the pipeline and the business deals around them. Grab your coffee and let's get into it.\n\nStory number one. Kling has made Kling 4.0 Flash fully open to users worldwide. According to AIbase, Flash is the version built for high-volume, cost-effective creation, and it's available on Kli",
-  "len": 11955346,
-  "dur": 747,
-  "date": "Thu, 05 Nov 2026 07:23:35 +0100",
-  "notes": {
-   "intro": "Thursday November 5: Kling 4.0 Flash opens with Premiere and After Effects plugins, a 17-point race atop the video arena, ChatGPT Images 2.6 GIFs, China's AI remix crackdown, Danish producers seeking Spanish romcoms, OpenAI's Hollywood push, cheaper Claude Code agents, Apple's AI budget cuts, Anthropic's AP deal and the labs round-up.",
-   "stories": [
-    {
-     "title": "Kling 4.0 Flash fully open, with Photoshop, Premiere and After Effects plugins",
-     "url": "https://news.aibase.com/news/32109",
-     "line": "Also via API, MCP, CLI and AI plugins"
-    },
-    {
-     "title": "Wan 3.0 takes first place in the text-to-video arena",
-     "url": "https://neurocartel.com/en/blog/ai-video-news-november-4-2026",
-     "line": "17 Elo from first to sixth; Selendis announces Archon, edits from raw footage (waitlist, unverified)"
-    },
-    {
-     "title": "ChatGPT Images 2.6 adds animated GIFs",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
-     "line": "Frame editing, up to 50% faster; [Tesseract as editable finishing layer](https://aicrier.com/post/o4aqixj744nmj6uvo3r1); [Enkio music videos via MCP](https://www.einpresswire.com/article/954652166/enkio-mcp-brings-ai-music-video-creation-to-chatgpt-and-codex)"
-    },
-    {
-     "title": "China removes 11,000 AI remix videos; NBCU co-leads $80M for EloElo",
-     "url": "https://news.shorstory.com/en/articles/daily-2026-11-05/",
-     "line": "Plus Jingrui AI, a 50+ model production canvas for 100 simultaneous editors"
-    },
-    {
-     "title": "Danish producers seek romcoms to co-produce with Spain",
-     "url": "https://furtherandbetter.substack.com/p/global-tv-film-and-media-industry-9c5",
-     "line": "Danish broadcasters cover only 40-50% of budgets; Netflix AI Discover; unscripted as scripted training ground"
-    },
-    {
-     "title": "OpenAI's Hollywood charm offensive: Charles Porch",
-     "url": "https://furtherandbetter.substack.com/p/global-tv-film-and-media-industry-9c5",
-     "line": "First VP of Global Creative Partnerships, per a New York Magazine profile"
-    },
-    {
-     "title": "Claude Code background agent updates ~99% cheaper",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
-     "line": "Haiku 5.5 writes status notes; Cat Wu joins OpenAI; OpenAI to buy Pierre; Meta buys Conductor"
-    },
-    {
-     "title": "Apple cuts employees' daily AI budgets",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
-     "line": "$300 to $200 for some engineers; push toward cheaper and on-device models"
-    },
-    {
-     "title": "Anthropic's first paid publisher deal, with AP",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
-     "line": "Judge dismisses claim against Dario Amodei in music publishers' suit, with leave to amend"
-    },
-    {
-     "title": "OpenAI agents find 948 Linux kernel exploits",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/",
-     "line": "~$1.21M in credits; Kimi K3.1 Pro, Tencent Hy4, Claude helps solve a vault particle structure"
-    }
-   ]
-  }
- },
- {
   "id": "20261106-072626",
   "title": "AI News, Friday November 6",
   "desc": "Good morning Ryan, and happy Friday, November the sixth. It's Brian here, your host on the AI News Station. We've got nine stories for you this morning, and the thread running through them is that the tools are moving into the places where you already work. Final Cut Pro gets a big update, Google makes video generation cheaper and longer, Higgsfield tackles shot consistency, and a Japanese broadcaster bets its whole drama slate on generative AI. Grab your coffee, it's Friday, and let's get into it.\n\nStory number one, and it's one for your home turf. Apple has started rolling out the big Apple ",
@@ -847,6 +784,69 @@
      "title": "Quick hits: Jensen Huang reinstated as Nvidia CEO",
      "url": "https://www.macrumors.com/2026/11/23/jensen-huang-reinstated-as-nvidia-ceo/",
      "line": "Unanimous board vote after his Nov 12 resignation; plus [Oregon and Virginia sue SpaceX over Grok's sexualized deepfakes](https://sloptvnews.com/oregon-virginia-sue-spacex-grok-deepfake-images/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261125-072203",
+  "title": "AI News, Wednesday November 25",
+  "desc": "Good morning, Ryan, and happy Wednesday! It's Wednesday, November twenty-fifth, and this is your AI News Station. I'm Brian, and I'll be with you for the next ten minutes or so. Today, a free, open-source Mac editor lets Claude cut your footage, five new tools promise to edit from a prompt, a giant new video model lands on Higgsfield, and your iPhone becomes a virtual production camera. We've also got a 3D set builder for AI film, a sobering report from inside OpenAI and Anthropic, Amazon's multi-billion-dollar chip deal, a model that only judges video, and Google's patent for a TV channel sta",
+  "len": 7355916,
+  "dur": 612,
+  "date": "Wed, 25 Nov 2026 07:22:47 +0100",
+  "notes": {
+   "intro": "Wednesday November 25: Editroom, the open-source Mac editor Claude can cut in, five prompt-driven AI editors ranked by price, MAGI-2 lands on Higgsfield, Simulon Spaces turns an iPhone into a virtual production camera, Plot Party's Snowglobe 3D sets, Axios on OpenAI and Anthropic's unreleased models, Amazon buys Decart's chip software, HeyGen Decision 1, Google's My Channel patent, plus quick hits.",
+   "stories": [
+    {
+     "title": "Editroom: fast and powerful video editing for Mac",
+     "url": "https://github.com/robbietilton/Editroom",
+     "line": "Free, MIT-licensed Swift app: grading, speed ramps, loudness targets, transcript search, and Claude or ChatGPT editing from a prompt; see also [robbietilton.com/editroom](https://robbietilton.com/editroom)"
+    },
+    {
+     "title": "Five AI video editors that cut from a prompt, ranked by price",
+     "url": "https://sloptvnews.com/ai-video-editors-cut-from-a-prompt-compared/",
+     "line": "VEED AI free with no watermark, OpenClips from $5, Runway Ad Director on the $35 Pro plan, Clipchamp prompt-to-video, OpenReel AI with no published price"
+    },
+    {
+     "title": "Sand.ai launches MAGI-2, a 480B video model, on Higgsfield",
+     "url": "https://sloptvnews.com/magi-2-higgsfield-first-reseller-price/",
+     "line": "Up to 30 s of 1080p with sound, 20 references per request, $0.08 per second on Higgsfield; open weights still the 10 s preview"
+    },
+    {
+     "title": "Simulon Spaces turns any image into a 3D film set on your phone",
+     "url": "https://sloptvnews.com/simulon-spaces-turns-any-image-into-a-3d-film-set-on-your-phone/",
+     "line": "Tracked iPhone camera, live depth masking, voice-driven assets; Plus $14.99, Pro $39.99 a month"
+    },
+    {
+     "title": "Plot Party's Snowglobe builds a 3D set from one line of text",
+     "url": "https://sloptvnews.com/plot-party-snowglobe-3d-set-from-one-line-of-text/",
+     "line": "Editable, walkable 3D worlds from text or a photo, shots feed Seedance 2.5 and MiniMax H3; Pro $29 a month"
+    },
+    {
+     "title": "Anthropic, OpenAI employees fear models are too unsafe to release",
+     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+     "line": "Axios, 2+ dozen sources: debate over keeping frontier models internal; see also [The Next Web](https://thenextweb.com/news/anthropic-openai-staff-fear-unreleased-models-unsafe-axios)"
+    },
+    {
+     "title": "Amazon buys Decart's chip software for a reported $7.5B",
+     "url": "https://sloptvnews.com/amazon-buys-decart-optimization-stack-not-video-models/",
+     "line": "Decart Optimization Stack and founders go to Annapurna Labs; Lucy and Oasis models not included, per Bloomberg"
+    },
+    {
+     "title": "HeyGen ships Decision 1, a model that only judges content",
+     "url": "https://sloptvnews.com/heygen-decision-1-video-scoring-model/",
+     "line": "Scores up to 10 clips of 60 s against your own rubric; no published accuracy figures in the docs"
+    },
+    {
+     "title": "Google's My Channel patent describes AI TV shows starring you",
+     "url": "https://sloptvnews.com/google-my-channel-patent-ai-tv-shows-starring-you/",
+     "line": "Personalized AI channel with viewer avatar and voice; application rejected by examiner, no product announced"
+    },
+    {
+     "title": "Quick hits: Welcome to Niji 8",
+     "url": "https://nijijourney.com/blog/niji-8",
+     "line": "Midjourney's anime model adds an edit feature for consistent characters; plus [Tidal bans AI music from December 9](https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/) and [Unreal Engine 6 will ship without Blueprints](https://sloptvnews.com/unreal-engine-6-without-blueprints-explained/)"
     }
    ]
   }
