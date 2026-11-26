@@ -1,63 +1,5 @@
 [
  {
-  "id": "20261106-072626",
-  "title": "AI News, Friday November 6",
-  "desc": "Good morning Ryan, and happy Friday, November the sixth. It's Brian here, your host on the AI News Station. We've got nine stories for you this morning, and the thread running through them is that the tools are moving into the places where you already work. Final Cut Pro gets a big update, Google makes video generation cheaper and longer, Higgsfield tackles shot consistency, and a Japanese broadcaster bets its whole drama slate on generative AI. Grab your coffee, it's Friday, and let's get into it.\n\nStory number one, and it's one for your home turf. Apple has started rolling out the big Apple ",
-  "len": 10692274,
-  "dur": 668,
-  "date": "Fri, 06 Nov 2026 07:27:08 +0100",
-  "notes": {
-   "intro": "Friday November 6: Final Cut Pro gets MotionVFX and AI image generation, Google's Gemini Omni 1.2 Flash makes 15-second video cheaper, Higgsfield Elements for consistent shots, Fuji TV's all-AI drama plan, Korea's fully generated features, GPT-6 Cyber, METR on accelerating AI research, Runway and ElevenLabs in coding agents, and always-on agents.",
-   "stories": [
-    {
-     "title": "Apple Creator Studio update: Final Cut Pro gets MotionVFX, Pixelmator Pro round-trip and AI image generation",
-     "url": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-     "line": "Free for existing subscribers; details in [Apple's release](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) and [RedShark News](https://www.redsharknews.com/apple-creator-studio-motionvfx-final-cut-pro-update)"
-    },
-    {
-     "title": "Gemini Omni 1.2 Flash: 15-second video and 30% lower pricing",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "line": "$0.07 per second at 720p; also in [Google Vids](https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/)"
-    },
-    {
-     "title": "Higgsfield adds Elements to Cinema Studio 4.0",
-     "url": "https://founderheist.com/briefs/higgsfield-adds-elements-to-cinema-studio-4-0-for-ai-shot",
-     "line": "Reusable characters, locations and props with up to 50 references; see also the [Higgsfield changelog](https://www.higgsfield.company/creator-hub/changelog)"
-    },
-    {
-     "title": "Fuji TV to use generative AI in all live-action dramas from October 2027",
-     "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fuji-tv-goes-all-in-with-ai-for-drama-production",
-     "line": "Nikkei Asia; article is paywalled"
-    },
-    {
-     "title": "AI movies make the leap to the big screen in Korea",
-     "url": "https://www.koreatimes.co.kr/entertainment/films/20261105/ai-movies-make-leap-from-short-clips-to-big-screen",
-     "line": "Raphael opens Nov. 25 after 14 months of editing"
-    },
-    {
-     "title": "OpenAI introduces GPT-6 Cyber",
-     "url": "https://openai.com/index/introducing-gpt-6-cyber",
-     "line": "948 Linux privilege escalation exploits and 81 new Firefox vulnerabilities, rated Critical for cybersecurity"
-    },
-    {
-     "title": "The Neuron: Anthropic's AI development is accelerating, per METR",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
-     "line": "Roughly twice the previous pace, with much of the evidence redacted"
-    },
-    {
-     "title": "Runway Dev plugins for Claude Code, Codex and Cursor",
-     "url": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents",
-     "line": "Plus [ElevenLabs SFX v3 and Eleven Realtime](https://releasebot.io/updates/eleven-labs)"
-    },
-    {
-     "title": "Quick hits: Perplexity Teammates, Cursor web-app deploys, Claude Personal Finance",
-     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
-     "line": "Always-on agents arrive across the board"
-    }
-   ]
-  }
- },
- {
   "id": "20261109-072312",
   "title": "AI News, Monday November 9",
   "desc": "Good morning, Ryan, and happy Monday! It's Monday, November ninth, I'm Brian, and this is your AI News Station. Grab your coffee, because the weekend was busy. We've got a new post-production trick from Higgsfield, a Cannes-winning director who says he made an entire feature with AI from his apartment, a fresh DaVinci Resolve update, a big new Topaz model, some very sobering math on AI feature budgets from Korea, Christopher Nolan on training data, cheaper video models everywhere, a lesson on agent memory that applies directly to your Claude Code tools, and the political weather around AI afte",
@@ -847,6 +789,69 @@
      "title": "Quick hits: Welcome to Niji 8",
      "url": "https://nijijourney.com/blog/niji-8",
      "line": "Midjourney's anime model adds an edit feature for consistent characters; plus [Tidal bans AI music from December 9](https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/) and [Unreal Engine 6 will ship without Blueprints](https://sloptvnews.com/unreal-engine-6-without-blueprints-explained/)"
+    }
+   ]
+  }
+ },
+ {
+  "id": "20261126-072719",
+  "title": "AI News, Thursday November 26",
+  "desc": "Good morning, Ryan, and happy Thursday! It's Thursday, November twenty-sixth, and this is your AI News Station. I'm Sarah, and I'll be keeping you company for the next ten minutes or so. Today, David Fincher goes on the record about using AI to clean up dialogue, Prime Video restores sixty old MGM titles with AI, and Claude can now turn the little tools it builds into real Mac apps. We've also got Final Cut news from FCP Cafe, a music model that lands a beat on an exact frame, a Fremantle label opening an AI division, the hard numbers behind China's AI micro-drama boom, Korea's first AI featur",
+  "len": 7575972,
+  "dur": 631,
+  "date": "Thu, 26 Nov 2026 07:28:14 +0100",
+  "notes": {
+   "intro": "Thursday November 26: Fincher confirms AI dialogue cleanup on Cliff Booth, Prime Video's AI upscale of 60+ MGM titles, Claude artifacts as Mac apps, CommandPost 3.1, FxCore SDK and Clip Exploder, Taan V1 frame-accurate music, Fremantle's Beach House Labs, China's AI micro-drama numbers, Korea's Raphael in cinemas, AdProducer vs Veo 3.1, plus quick hits.",
+   "stories": [
+    {
+     "title": "David Fincher confirms AI use in Cliff Booth post-production",
+     "url": "https://sloptvnews.com/david-fincher-cliff-booth-ai-backlash/",
+     "line": "On The Big Picture: \"That's all A.I.\" for dialogue cleanup, ADR about 5%, AI lip-sync to blend takes; Netflix silent on flagged shots"
+    },
+    {
+     "title": "Prime Video upscales over 60 MGM titles to HD with AI",
+     "url": "https://sloptvnews.com/prime-video-ai-upscales-mgm-titles-hd/",
+     "line": "Four stages on AWS: cleanup, two-model upscale, keep the look, re-add grain; specialist review, HD only, no 4K"
+    },
+    {
+     "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+     "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+     "line": "\"Install as app\" puts artifacts in the Dock with Default, App or Full computer access permissions; beta, all plans"
+    },
+    {
+     "title": "FCP Cafe: CommandPost v3.1, FxFactory 9.0.8 FxCore SDK, Clip Exploder 1.2.2",
+     "url": "https://fcp.cafe/",
+     "line": "CommandPost iOS one-time $79.99 covers all platforms (Mac app awaiting review); Clip Exploder exports each clip with handles via FCPXML"
+    },
+    {
+     "title": "Taan AI: The most controllable foundation music model",
+     "url": "https://www.ycombinator.com/launches/WlG-taan-ai-the-most-controllable-foundation-music-model",
+     "line": "V1 out Nov 24: timed events, edit one instrument, score to video, licensed training data; see [DJ Trevo on V1](https://www.djtrevo.com/taan-v1-musica-ia-drop/)"
+    },
+    {
+     "title": "Beach House Pictures opens an AI production division",
+     "url": "https://sloptvnews.com/beach-house-labs-ai-production-division/",
+     "line": "Fremantle's Singapore label launches Beach House Labs and its Playground hub; Nadia Leong leads from January 2027"
+    },
+    {
+     "title": "China's AI micro-dramas top 220,000 with only 0.48% breaking out",
+     "url": "https://sloptvnews.com/china-ai-micro-drama-breakout-rate-collapse/",
+     "line": "Live-action titles 1/50 as many on Douyin but 25x the plays; creator revenue per 10,000 plays down nearly 90%"
+    },
+    {
+     "title": "Raphael reviews: Korea's first AI film looks sharp, story lags",
+     "url": "https://sloptvnews.com/raphael-ai-feature-film-korea-theaters/",
+     "line": "138-minute sci-fi feature from Mateo AI Studio and MBC C&I, made with Kling by seven people, in Lotte Cinema from Nov 25"
+    },
+    {
+     "title": "AdProducer beats Veo 3.1 in its own ad test, 51.3 to 28.0",
+     "url": "https://sloptvnews.com/adproducer-open-agent-beats-veo-3-1-ads/",
+     "line": "Open 9B storyboard agent from UCF in front of MiniMax H3; 480p silent 10 s clips, authors' own benchmark"
+    },
+    {
+     "title": "Quick hits: YouTube demonetization wave hits AI and faceless channels",
+     "url": "https://sloptvnews.com/youtube-demonetization-wave-ai-faceless-channels/",
+     "line": "\"Repetitive\" content cut-offs Nov 16-23, no policy change; plus [X's new vertical video editor](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/)"
     }
    ]
   }
